@@ -1,0 +1,81 @@
+base_url = "https://deepthought-theme.netlify.app"
+title = "MP2I Saint Louis"
+default_language = "fr"
+theme= "DeepThought"
+generate_feed = true
+feed_filename = "rss.xml"
+taxonomies = [
+    { name = "categories", feed = true, paginate_by = 10 },
+    { name = "tags", feed = true, paginate_by = 10 },
+]
+[languages.fr]
+compile_sass = true
+build_search_index = true
+ignored_content = []
+extra_syntaxes = []
+
+[link_checker]
+skip_prefixes = ["http://[2001:db8::]/"]
+skip_anchor_prefixes = ["https://caniuse.com/"]
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[markdown]
+highlight_code = true
+highlight_theme = "base16-ocean-light"
+render_emoji = true
+smart_punctuation = true
+
+[translations]
+
+[extra]
+navbar_items = [
+    { code = "fr", nav_items = [
+        { url = "$BASE_URL/", name = "Accueil" },
+        { url = "$BASE_URL/articles", name = "Blog" },
+        { url = "$BASE_URL/faq", name = "FAQ" },
+        { url = "$BASE_URL/ressources", name = "Ressources" },
+        { url = "$BASE_URL/a_propos", name = "À Propos" },
+    ] },
+]
+
+legal = "$BASE_URL/legal/mentions-legales/"
+
+[extra.favicon]
+favicon_16x16 = "/icons/favicon-16x16.png"
+favicon_32x32 = "/icons/favicon-32x32.png"
+apple_touch_icon = "/icons/apple-touch-icon.png"
+safari_pinned_tab = "/icons/safari-pinned-tab.svg"
+webmanifest = "/icons/site.webmanifest"
+
+[extra.author]
+name = "MP2I Saint Louis"
+avatar = "/images/avatar.png"
+
+[extra.social]
+#facebook = "RatanShreshtha"
+#github = "RatanShreshtha"
+#gitlab = "ratanshreshtha"
+#keybase = "RatanShreshtha"
+#linkedin = "ratanshreshtha"
+#stackoverflow = "3728911"
+#email = "deepthought@gmail.com"
+#twitter = "RatanShreshtha"
+#orcid = ""
+#google_scholar = ""
+
+[extra.analytics]
+#google = "UA-176984489-2"
+
+[extra.commenting]
+#disqus = "deepthought-theme"
+
+[extra.mapbox]
+#access_token = "pk.eyJ1IjoicmF0YW5zaHJlc2h0aGEiLCJhIjoiY2tla2s2NmM3MDd0ZzJzbXFtc3Y2YmU0NyJ9.0RhUnJPKbxHWw3xGPnnBlA"
+
+[extra.katex]
+enabled = true
+auto_render = true
