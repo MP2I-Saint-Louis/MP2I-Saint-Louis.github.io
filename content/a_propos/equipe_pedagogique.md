@@ -16,9 +16,9 @@ Le lycée Saint Louis saura bien prendre soin de vous quoiqu'il arrive au long d
 Pour l'année 2021, l'équipe pédagogique qui nous accompagne est majoritairement féminine, et voilà ceux que vous croiserez le plus souvent:
 
 ### Direction
-* Proviseure : Mme 
-* Proviseure adjointe : Mme
-* CPE: Mme
+* Proviseure : Mme BASSO
+* Proviseur adjoint : Mme
+* CPE: Mme N. Margenin
 
 ### Professeurs
 * Mme C. Mullaert, que vous verrez 12h par semaine au travers de l'enseignement des Mathématiques

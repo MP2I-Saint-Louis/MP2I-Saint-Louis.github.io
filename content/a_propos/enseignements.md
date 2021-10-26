@@ -43,6 +43,6 @@ Quant à l'option Science de l'Ingénieur, elle amène aux différentes filière
 * Chinois (enseigné à Louis le Grand)
 * Arabe?
 
-### Enseginement de Français-Philosophie
+### Enseignement de Français-Philosophie
 
 ### Enseignement d'Éducation Physique et Sportive (obligatoire)

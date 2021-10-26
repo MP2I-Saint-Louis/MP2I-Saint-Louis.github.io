@@ -1,6 +1,6 @@
 +++
 title = "MP2I Saint Louis"
-description = "Site de la MP2I du lycée Saint Louis, Paris 6."
+description = "Site de la MP2I du lycée Saint Louis, Paris VI."
 +++
 
 Le lycée Saint-Louis au coeur du Quartier Latin est le seul lycée en France dédié uniquement aux Classes Préparatoires aux Grandes Écoles. Par delà, il s'attrait d'une équipe pédagogique et de khôlleurs de grande qualités et il vous sera ainsi facilité votre entrée dans le supérieur et votre préparation pour les concours communs de 2ème année.   
