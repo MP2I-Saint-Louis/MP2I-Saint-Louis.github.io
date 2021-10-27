@@ -28,8 +28,8 @@ Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au f
 * Chapter 7 (en attente de portage)
 * [Chapter 8](https://quizlet.com/fr/627092576/the-vocabulary-guide-chapter-8-the-human-being-behaviour-and-manners-flash-cards) par Timothée B.[^1]
 * [Chapter 9](https://quizlet.com/fr/627069594/liste-9-flash-cards/) par Raphaël P.
-* Chapter 15 (en attente de portage)
-* Chapter 16 (en attente de portage)
+* Chapter 15, cf [Chapter 15 & 16](https://quizlet.com/_ahi878?x=1qqt&i=3xkvg7) par Thomas C.
+* Chapter 16, cf [Chapter 15 & 16](https://quizlet.com/_ahi878?x=1qqt&i=3xkvg7) par Thomas C.
 * Chapter 20 (bientôt disponible)
 * Chapter 21 (bientôt disponible)
 * Chapter 29 (en attente de portage)
@@ -56,4 +56,4 @@ Les listes Anki sont généralement composées des cartes basiques et renversée
 
 * * *
 
-[^1]: Disponible sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) sous réserve de la mention de l'auteur et de la source (URL).
+[^1]: Disponible sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) sous réserve de mention de l'auteur et de la source (URL).
