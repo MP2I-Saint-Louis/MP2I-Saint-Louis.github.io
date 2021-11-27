@@ -7,25 +7,24 @@ date = 2021-09-28
 updated = 2021-11-27
 [extra]
 author = "T. Brillaud"
+toc = true
 +++
 
 {{ draft() }}
 
-Quelques statistiques sur la première année de MP2I du lycée Saint-Louis :
-
-En premier lieu, pour cette première année pour la classe de MP2I, le lycée Saint-Louis
-accueille 48 élèves de toute la France.
+Pour cette première année pour la classe de MP2I, le lycée Saint-Louis accueille 48 élèves de toute la France. 
+Ici sont rassemblées quelques statistiques sur la classe.
 
 ## Mixité
 
 La gente féminine est représentée par 6 filles, pour une représentation de 12,5% sur l'ensemble de la classe.
 
-Leur pouvoir est cependant assez grand car une place de délégué leur est réservée. De plus, une place leur est explicitement réservée également dans les différents clubs de l'association sportive (AS), *notamment Volley et Ultimate*.
+Leur pouvoir est cependant assez grand car une place de délégué leur est réservée. De plus, une place leur est explicitement réservée également dans les différentes équipes de l'association sportive (AS), *notamment Volley et Ultimate*.
 
 ## Spécialité de Terminale
 
-La majorité des étudiants proviennent d'une Terminale spécialité Mathématique/Numérique et Science de l'Informatique (NSI) *près de 55% pour être plus précis*.  
-Mais également 40% d'étudiants avec un Bac général spécialité Mathématique/Physique.    
+La majorité des étudiants proviennent d'une Terminale spécialité Mathématiques/Numérique et Science de l'Informatique (NSI) *près de 55% pour être plus précis*.  
+Mais également 40% d'étudiants avec un Bac général spécialité Mathématiques/Physique.    
 Et l'exception qui confirme la règle, un de nos étudiants a passé un bac spécialité Physique/Science de la vie et de la Terre (SVT). *À noter, qu'il a suivi l'enseignement Mathématiques complémentaires*
 
 ## Numérique et Science de l'Informatique (NSI)
@@ -39,11 +38,11 @@ Les réprésentants des enseignement Mathématiques (Spé) seule et Mathématiqu
 
 L'option Mathématiques expertes est très encouragée pour son atout pour vos dossiers Parcoursup mais également pour ne pas être en retard une fois dans le supérieur.
 
-Plus d'information dans le post (Enseignements)[@/a_propos/enseignements]. <!-- TODO: ajouter l'ancre -->
+Plus d'information dans le post (Enseignements)[@/a_propos/enseignements.md]. <!-- TODO: ajouter l'ancre -->
 
 ## Abandons
 
-Au jour d'aujourd'hui, il n'a eu qu'un seul abandon en tout début d'année.
+Au jour d'aujourd'hui, il n'y a eu que deux abandons en tout début d'année, dont un remplacé.
 Ce chiffre devrait augmenter dans les mois à venir.
 
 ## Parcoursup (TODO)
@@ -68,3 +67,25 @@ Ce chiffre devrait augmenter dans les mois à venir.
 ## Provenance (TODO)
 
 ***TODO:** Lycée / Région*
+
+## Langues vivantes
+
+### En Terminale
+
+### En Première Année
+
+Majoritairement Anglais en LV1. Quelques courageux font également une seconde langue comme Espagnol, Chinois ou encore Allemand.
+
+On compte aussi parmi nous quelques LV1 Allemand et LV1 Espagnol.
+
+## Résultats au baccalauréat
+
+Finalement, quelques statistiques sur les résultats au baccalauréat des étudiants de MP2I.
+
+{{ note() }}
+
+Ces résultats sont à prendre avec du recul. On rappelle qu'il n'y a pas eu d'épreuve de spécialité, ni de français pour l'édition 2021. De plus, en règle générale, ces résultats ne suffisent pas à vous classer, sur les quelques 400 élèves sur quelques miliers de dossiers, qui se veront offrir une place à Saint-Louis, l'écart varie encore beaucoup entre les étudiants d'une même classe.
+
+{{ end }}
+
+***TODO***
