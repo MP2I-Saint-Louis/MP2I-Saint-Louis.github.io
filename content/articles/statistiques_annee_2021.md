@@ -1,6 +1,6 @@
 +++
 title = "Statistiques sur la première édition de la filière MP2I"
-description = "Spécialités, Mixité, Parcoursup... on essaye d'être exaustif."
+description = "Spécialités, Mixité, Parcoursup... on essaye d'être exhaustif."
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
@@ -59,8 +59,12 @@ Ce chiffre devrait augmenter dans les mois à venir.
 
 ### Choix provisoires pour la seconde année
 
-En ce jour, la majorité des étudiants pense continuer en MPI l'an prochain.
+À ce jour, la majorité des étudiants pense continuer en MPI l'an prochain.
 
 ## Régime Interne/Interne-Exterbe/DP/Externe (TODO)
 
 ## Logements (et transports) (TODO)
+
+## Provenance (TODO)
+
+***TODO:** Lycée / Région*
