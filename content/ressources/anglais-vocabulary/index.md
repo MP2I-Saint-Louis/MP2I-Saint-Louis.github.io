@@ -19,8 +19,8 @@ Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au f
 * 27 septembre au 1er octobre: 4, 42
 * 11-15 octobre: 7, 8, 9
 * 8-12 novembre: 15, 16
-* 22-26 novembre: 29, 32, 36
-* 6-10 décembre: 20, 21
+* 22-26 novembre: 29, 32
+* 6-10 décembre: 36, 20, (21?)
 
 ### Quizlet
 
@@ -30,8 +30,8 @@ Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au f
 * [Chapter 9](https://quizlet.com/fr/627069594/liste-9-flash-cards/) par Raphaël P.
 * Chapter 15, cf [Chapter 15 & 16](https://quizlet.com/_ahi878?x=1qqt&i=3xkvg7) par Thomas C.
 * Chapter 16, cf [Chapter 15 & 16](https://quizlet.com/_ahi878?x=1qqt&i=3xkvg7) par Thomas C.
-* Chapter 20 (bientôt disponible)
-* Chapter 21 (bientôt disponible)
+* Chapter 20 (en attente de portage)
+* Chapter 21 (en attente de portage)
 * Chapter 29 (en attente de portage)
 * Chapter 32 (en attente de portage)
 * Chapter 36 (en attente de portage)
@@ -47,8 +47,8 @@ Les listes Anki sont généralement composées des cartes basiques et renversée
 * Chapter 9 (attente de droit de redistribution)
 * [Chapter 15](/anki/MP2I%20-%20Anglais__Vocabulary%2015.apkg) par Timothée B.[^1]
 * [Chapter 16](/anki/MP2I%20-%20Anglais__Vocabulary%2016.apkg) par Timothée B.[^1]
-* Chapter 20 (bientôt disponible)
-* Chapter 21 (bientôt disponible)
+* [Chapter 20](/anki/MP2I%20-%20Anglais__Vocabulary%2020.apkg) par Timothée B.[^1]
+* [Chapter 21](/anki/MP2I%20-%20Anglais__Vocabulary%2021.apkg) par Timothée B.[^1]
 * [Chapter 29](/anki/MP2I%20-%20Anglais__Vocabulary%2029.apkg) par Timothée B.[^1]
 * [Chapter 32](/anki/MP2I%20-%20Anglais__Vocabulary%2032.apkg) par Timothée B.[^1]
 * [Chapter 36](/anki/MP2I%20-%20Anglais__Vocabulary%2036.apkg) par Timothée B.[^1]
