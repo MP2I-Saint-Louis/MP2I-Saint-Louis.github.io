@@ -58,7 +58,7 @@ Ce chiffre devrait augmenter dans les mois à venir.
 
 ### Choix provisoires pour la seconde année
 
-À ce jour, la majorité des étudiants pense continuer en MPI l'an prochain.
+À ce jour, la majorité des étudiants pense continuer en MPI/MPI*[^1] l'an prochain.
 
 ## Régime Interne/Interne-Exterbe/DP/Externe (TODO)
 
@@ -82,10 +82,14 @@ On compte aussi parmi nous quelques LV1 Allemand et LV1 Espagnol.
 
 Finalement, quelques statistiques sur les résultats au baccalauréat des étudiants de MP2I.
 
-{{ note() }}
+{% note() %}
 
-Ces résultats sont à prendre avec du recul. On rappelle qu'il n'y a pas eu d'épreuve de spécialité, ni de français pour l'édition 2021. De plus, en règle générale, ces résultats ne suffisent pas à vous classer, sur les quelques 400 élèves sur quelques miliers de dossiers, qui se veront offrir une place à Saint-Louis, l'écart varie encore beaucoup entre les étudiants d'une même classe.
+Ces résultats sont à prendre avec du recul. On rappelle qu'il n'y a pas eu d'épreuve de spécialité, ni de français pour l'édition 2021. De plus, en règle générale, ces résultats ne suffisent pas à vous classer, sur les quelques 400 élèves sur quelques miliers de dossiers, qui se veront offrir une place à Saint-Louis, l'écart varie encore beaucoup.
 
-{{ end }}
+{% end %}
 
 ***TODO***
+
+* * *
+
+[^1]: Est officielle l'ouverture d'une classe double MPI/MPI* à la rentrée 2022 au lycée Saint-Louis.

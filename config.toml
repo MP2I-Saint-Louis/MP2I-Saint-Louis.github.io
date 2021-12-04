@@ -11,6 +11,15 @@ taxonomies = [
     { name = "tags", feed = true, paginate_by = 10 },
 ]
 [languages.fr]
+title = "MP2I Saint Louis"
+description = "Dans le cadre de cette nouvelle filière, le lycée Saint Louis accueille aujourd’hui 48 élèves en MP2I et ouvrira dès 2022 une classe de 2ème année MPI. Ce site vient établir un premier lien avec les futurs lycéens qui entreront bientôt au Lycée Saint Louis mais aussi avec tout ceux qui s’orienteront vers d’autres MP2I ou encore d’autres voies. Découvrez donc ici votre futur chez-vous."
+generate_feed = true
+feed_filename = "rss.xml"
+taxonomies = [
+    { name = "categories", feed = true, paginate_by = 10 },
+    { name = "tags", feed = true, paginate_by = 10 },
+]
+
 compile_sass = true
 build_search_index = true
 ignored_content = []
