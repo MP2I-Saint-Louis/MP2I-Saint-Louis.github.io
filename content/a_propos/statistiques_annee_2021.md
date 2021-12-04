@@ -3,8 +3,8 @@ title = "Statistiques sur la première édition de la filière MP2I"
 description = "Spécialités, Mixité, Parcoursup... on essaye d'être exhaustif."
 sort_by = "date"
 paginate_by = 5
-date = 2021-09-28
-updated = 2021-11-27
+date = 2021-12-04
+updated = 2021-12-04
 [extra]
 author = "T. Brillaud"
 toc = true
@@ -24,8 +24,7 @@ Leur pouvoir est cependant assez grand car une place de délégué leur est rés
 ## Spécialité de Terminale
 
 La majorité des étudiants proviennent d'une Terminale spécialité Mathématiques/Numérique et Science de l'Informatique (NSI) *près de 55% pour être plus précis*.  
-Mais également 40% d'étudiants avec un Bac général spécialité Mathématiques/Physique.    
-Et l'exception qui confirme la règle, un de nos étudiants a passé un bac spécialité Physique/Science de la vie et de la Terre (SVT). *À noter, qu'il a suivi l'enseignement Mathématiques complémentaires*
+Mais également 45% d'étudiants avec un Bac général spécialité Mathématiques/Physique.
 
 ## Numérique et Science de l'Informatique (NSI)
 
@@ -34,11 +33,11 @@ Dès lors que l'enseignement était proposé dans leur lycée, nos étudiants on
 ## Mathématiques et ses 3 niveaux
 
 Parmi nos étudiants de cette première année, une majorité d'entre eux a suivi l'option Mathématiques expertes.
-Les réprésentants des enseignement Mathématiques (Spé) seule et Mathématiques complémentaires sont infimes (aux alentours de 10%).  
+Les réprésentants des enseignement Mathématiques (Spé) seule sont infimes (aux alentours de 10%). L'option Mathématiques complémentaire n'est pas représentée parmi les élèves de Saint Louis.
 
-L'option Mathématiques expertes est très encouragée pour son atout pour vos dossiers Parcoursup mais également pour ne pas être en retard une fois dans le supérieur.
+L'option Mathématiques expertes est très encouragée pour son atout pour vos dossiers Parcoursup mais également pour ne pas être en retard une fois dans le supérieur. En effet, il démontre votre sérieux et implication quant aux Mathématiques, qui est la matière prépodérante en classe préparatoire.
 
-Plus d'information dans le post (Enseignements)[@/a_propos/enseignements.md]. <!-- TODO: ajouter l'ancre -->
+Plus d'information dans le post [Enseignements](@/a_propos/enseignements.md). <!-- TODO: ajouter l'ancre -->
 
 ## Abandons
 
@@ -47,9 +46,31 @@ Ce chiffre devrait augmenter dans les mois à venir.
 
 ## Parcoursup (TODO)
 
+En premier lieu, il est à noter que la filière MP2I du Lycée Saint-Louis figure parmi les formations avec le plus faible taux d'admission à la session Parcoursup 2021. 
+
+>    Lycée Louis Le Grand (Paris) : 4,21%  
+>    Lycée Saint-Louis (Paris) : 6,67%  
+>    Lycée Janson de Sailly (Paris) : 7,47%
+>
+> ~ *D'après ParcourSup 2021 et [MP2I de France](https://github.com/mp2i-france/mp2i-france-website/blob/develop/contenu/filiere/la_filiere.md)*
+
 ### Phase principale
+
+Contrairement à d'autres filières et/ou lycées, la MP2I Saint Louis n'a adressé que 48 lettres d'admission le 27 mai 2021 (Jour d'ouverture de la Phase Principale), soit le nombre d'élèves dans le classe.
+
+
+Le dernier appelé au 14 juillet 2021 (fin de la phase principale de ParcourSup 2021) était le 278ème.
+La liste d'attente ne comptait plus que 74 personnes.
+
 ### Phase des désistements
+
+À J-7 de la rentrée, le rang du dernier appelé était le 291ème.
+
 ### Après la rentrée
+
+D'après les données à notre connaissance, le dernier appelé depuis la liste d'attente était ~350ème.
+*Sous réserve de confirmation*
+
 ### Évolution des listes d'attente au cours du temps
 
 ## Motivations d'entrée en MP2I (TODO)
@@ -67,6 +88,12 @@ Ce chiffre devrait augmenter dans les mois à venir.
 ## Provenance (TODO)
 
 ***TODO:** Lycée / Région*
+
+{% note() %}
+La collecte de ces informations sont encore en cours...
+{% end %}
+
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/provenancemp2isl_689322?scaleControl=false&miniMap=true&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=expanded&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/provenancemp2isl_689322">Voir en plein écran</a></p>
 
 ## Langues vivantes
 

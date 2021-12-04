@@ -4,7 +4,11 @@ description = "todo"
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-draft = true
+updated = 2021-12-04
+draft = false
 +++
 
 {{ draft() }}
+
+
+Vous pourrez trouver d'autres informations plus globales sur la filière MP2I ici : [MP2I de France](https://github.com/mp2i-france/mp2i-france-website).
