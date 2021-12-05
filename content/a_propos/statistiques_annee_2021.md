@@ -21,7 +21,7 @@ La gente féminine est représentée par 6 filles, pour une représentation de 1
 
 Leur pouvoir est cependant assez grand car une place de délégué leur est réservée. De plus, une place leur est explicitement réservée également dans les différentes équipes de l'association sportive (AS), *notamment Volley et Ultimate*.
 
-## Spécialité de Terminale
+## Spécialités de Terminale
 
 La majorité des étudiants proviennent d'une Terminale spécialité Mathématiques/Numérique et Science de l'Informatique (NSI) *près de 55% pour être plus précis*.  
 Mais également 45% d'étudiants avec un Bac général spécialité Mathématiques/Physique.
@@ -44,7 +44,7 @@ Plus d'information dans le post [Enseignements](@/a_propos/enseignements.md). <!
 Au jour d'aujourd'hui, il n'y a eu que deux abandons en tout début d'année, dont un remplacé.
 Ce chiffre devrait augmenter dans les mois à venir.
 
-## Parcoursup (TODO)
+## Parcoursup 
 
 En premier lieu, il est à noter que la filière MP2I du Lycée Saint-Louis figure parmi les formations avec le plus faible taux d'admission à la session Parcoursup 2021. 
 
@@ -71,11 +71,13 @@ La liste d'attente ne comptait plus que 74 personnes.
 D'après les données à notre connaissance, le dernier appelé depuis la liste d'attente était ~350ème.
 *Sous réserve de confirmation*
 
-### Évolution des listes d'attente au cours du temps
+### Évolution des listes d'attente au cours du temps (TODO)
+
+*TODO*
 
 ## Motivations d'entrée en MP2I (TODO)
 
-***TODO***
+*TODO*
 
 ### Choix provisoires pour la seconde année
 
@@ -93,7 +95,7 @@ D'après les données à notre connaissance, le dernier appelé depuis la liste 
 La collecte de ces informations sont encore en cours...
 {% end %}
 
-<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/provenancemp2isl_689322?scaleControl=false&miniMap=true&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=expanded&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/provenancemp2isl_689322">Voir en plein écran</a></p>
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/provenancemp2isl_689322?scaleControl=false&miniMap=true&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=expanded&onLoadPanel=undefined&captionBar=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/provenancemp2isl_689322">Voir en plein écran</a></p>
 
 ## Langues vivantes
 
