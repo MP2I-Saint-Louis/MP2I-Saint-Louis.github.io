@@ -47,9 +47,9 @@ navbar_items = [
     { code = "fr", nav_items = [
         { url = "$BASE_URL/", name = "Accueil" },
         { url = "$BASE_URL/articles", name = "Blog" },
-        { url = "$BASE_URL/faq", name = "FAQ" },
+        { url = "$BASE_URL/a-propos/foire-aux-questions", name = "FAQ" },
         { url = "$BASE_URL/ressources", name = "Ressources" },
-        { url = "$BASE_URL/a_propos", name = "À Propos" },
+        { url = "$BASE_URL/a-propos", name = "À Propos" },
     ] },
 ]
 

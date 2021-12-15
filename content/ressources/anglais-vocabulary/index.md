@@ -2,12 +2,10 @@
 title = "Anglais - Listes de vocabulaire"
 description = "Retrouvez tout le nécessaire pour apprendre votre vocabulaire."
 date = 2021-10-17
-updated = 2021-11-27
+updated = 2021-12-15
 [extra]
 author = "Timothée B."
 +++
-
-{{ draft() }}
 
 ## Listes - The Vocabulary Guide
 
@@ -19,8 +17,8 @@ Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au f
 * 27 septembre au 1er octobre: 4, 42
 * 11-15 octobre: 7, 8, 9
 * 8-12 novembre: 15, 16
-* 22-26 novembre: 29, 32
-* 6-10 décembre: 36, 20, (21?)
+* 22-26 novembre: 29, 32, ~~36~~
+* 6-10 décembre: 20, 21
 
 ### Quizlet
 

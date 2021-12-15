@@ -4,7 +4,8 @@ description = "Quelques informations importantes sur les enseignements de la fil
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-
+updated = 2021-12-15
+weight = 40
 [extra]
 author = "T. Brillaud"
 +++

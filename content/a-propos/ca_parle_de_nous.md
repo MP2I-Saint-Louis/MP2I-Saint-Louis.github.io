@@ -1,7 +1,9 @@
 +++
 title = "Ça parle de nous !"
 description = "Quelques mentions de la filière MP2I sur l'Internet"
+weight = 100
 date = 2021-11-27
+updated = 2021-12-15
 +++
 
 Ici sont référencés quelques liens vers des ressources faisant mention du lycée Saint-Louis et

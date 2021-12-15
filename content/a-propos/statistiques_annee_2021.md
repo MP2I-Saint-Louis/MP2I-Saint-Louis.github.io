@@ -4,7 +4,8 @@ description = "Spécialités, Mixité, Parcoursup... on essaye d'être exhaustif
 sort_by = "date"
 paginate_by = 5
 date = 2021-12-04
-updated = 2021-12-04
+updated = 2021-12-15
+weight = 25
 [extra]
 author = "T. Brillaud"
 toc = true
@@ -37,7 +38,7 @@ Les réprésentants des enseignement Mathématiques (Spé) seule sont infimes (a
 
 L'option Mathématiques expertes est très encouragée pour son atout pour vos dossiers Parcoursup mais également pour ne pas être en retard une fois dans le supérieur. En effet, il démontre votre sérieux et implication quant aux Mathématiques, qui est la matière prépodérante en classe préparatoire.
 
-Plus d'information dans le post [Enseignements](@/a_propos/enseignements.md). <!-- TODO: ajouter l'ancre -->
+Plus d'information dans le post [Enseignements](@/a-propos/enseignements.md). <!-- TODO: ajouter l'ancre -->
 
 ## Abandons
 

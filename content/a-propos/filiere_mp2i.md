@@ -4,8 +4,8 @@ description = "todo"
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-updated = 2021-12-04
-draft = false
+updated = 2021-12-15
+weight = 30
 +++
 
 {{ draft() }}

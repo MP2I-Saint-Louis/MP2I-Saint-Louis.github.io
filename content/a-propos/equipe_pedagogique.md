@@ -4,7 +4,8 @@ description = "Quelques informations sur l'équipe qui vous accompagnera tout le
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-
+updated = 2021-12-15
+weight = 80
 [extra]
 author = "T. Brillaud"
 +++
@@ -16,17 +17,17 @@ Le lycée Saint Louis saura bien prendre soin de vous quoiqu'il arrive au long d
 Pour l'année 2021, l'équipe pédagogique qui nous accompagne est majoritairement féminine, et voilà ceux que vous croiserez le plus souvent:
 
 ### Direction
-* Proviseure : Mme BASSO
-* Proviseur adjoint : Mme
+* Proviseure : Mme M. BASSO
+* Proviseure adjointe : Mme
 * CPE: Mme N. Margenin
 
 ### Professeurs
 * Mme C. Mullaert, que vous verrez 12h par semaine au travers de l'enseignement des Mathématiques
 * Mme C. Chevalier, professeure de Physique (et éventuellement de Chimie)
 * M. L. Jospin, professeur d'Informatique
-* M. Delannoy, professeur de Science de l'Ingénieur
-* Mme Chapiro, professeure de Français-Philosophie
-* M. Moineau, professeur d'EPS
+* M. J. Delannoy, professeur de Science de l'Ingénieur
+* Mme F. Chapiro, professeure de Français-Philosophie
+* M. C. Moineau, professeur d'EPS
 
 ### Infirmerie
 * Mme _
