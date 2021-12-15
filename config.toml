@@ -55,6 +55,8 @@ navbar_items = [
 
 legal = "$BASE_URL/legal/mentions-legales/"
 
+google_site_verification = "ceqkKmtLXsTYqBnmXvfhOaUn3PPG8STrXfR3h70Yvcc"
+
 [extra.favicon]
 favicon_16x16 = "/icons/favicon-16x16.png"
 favicon_32x32 = "/icons/favicon-32x32.png"

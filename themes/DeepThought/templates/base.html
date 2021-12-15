@@ -9,6 +9,9 @@
   <meta content="#ffffff" name="theme-color" />
   <meta content="#da532c" name="msapplication-TileColor" />
 
+  {% if config.extra.google_site_verification %}
+  <meta name="google-site-verification" content="{{ config.extra.google_site_verification }}" />
+  {% endif %}
   {% if config.extra.favicon.webmanifest %}
   <link href='{{ config.extra.favicon.webmanifest }}' rel="manifest" />
   {% endif %}
