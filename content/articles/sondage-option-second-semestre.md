@@ -21,7 +21,7 @@ Attention, vous n'avez que **jusqu'au 1er février 2022** pour répondre, après
 
 * * *
 
-*NB:* Certaines questions font état d'un jugement personnel par rapport à une réflexion sur la classe entière, celles-ci nous permettrons d'évaluer de façon statistique la réalité de votre classe.
+*NB:* Certaines questions font état d'un jugement personnel par rapport à une réflexion sur la classe entière, celles-ci nous permettront d'évaluer de façon statistique la réalité de votre classe.
 
 *NB2:* Une adresse mail valide est nécessaire pour compléter ce sondage. Elle n'est et sera utilisée que pour permettre la confirmation de votre participation.
 
