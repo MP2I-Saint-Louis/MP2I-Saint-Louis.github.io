@@ -45,6 +45,8 @@ Plus d'information dans le post [Enseignements](@/a-propos/enseignements.md). <!
 Au jour d'aujourd'hui, il n'y a eu que deux abandons en tout début d'année, dont un remplacé.
 Ce chiffre devrait augmenter dans les mois à venir.
 
+***EDIT***: Un abandon de plus au 13 décembre 2021. Nous lui souhaitons le meilleur pour la suite.
+
 ## Parcoursup 
 
 En premier lieu, il est à noter que la filière MP2I du Lycée Saint-Louis figure parmi les formations avec le plus faible taux d'admission à la session Parcoursup 2021. 
