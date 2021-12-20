@@ -2,7 +2,7 @@
 title = "Anglais - Listes de vocabulaire"
 description = "Retrouvez tout le nécessaire pour apprendre votre vocabulaire."
 date = 2021-10-17
-updated = 2021-12-15
+updated = 2021-12-20
 [extra]
 author = "Timothée B."
 +++
@@ -13,12 +13,28 @@ Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au f
 
 #### Petit rappel du planning:
 
+##### Premier Semestre
+
 * 13-17 septembre : 19, 49, 50 
 * 27 septembre au 1er octobre: 4, 42
 * 11-15 octobre: 7, 8, 9
 * 8-12 novembre: 15, 16
 * 22-26 novembre: 29, 32, ~~36~~
 * 6-10 décembre: 20, 21
+* 3 janvier : 22, 23
+* 17 janvier : 30, 31
+
+##### Second Semestre
+
+* 31 janvier : 34, 40
+* 14 février : 26, 69
+* 7 mars : 51, 52
+* 21 mars : 70, 71
+* 4 avril : 66, 77
+* 18 avril : 84, 85
+* 9 mai : 90, 91
+* 23 mai : 102, 105
+
 
 ### Quizlet
 
