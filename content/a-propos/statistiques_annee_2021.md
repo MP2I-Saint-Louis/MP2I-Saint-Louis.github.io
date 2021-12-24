@@ -51,11 +51,11 @@ Ce chiffre devrait augmenter dans les mois à venir.
 
 En premier lieu, il est à noter que la filière MP2I du Lycée Saint-Louis figure parmi les formations avec le plus faible taux d'admission à la session Parcoursup 2021. 
 
->    Lycée Louis Le Grand (Paris) : 4,21%  
->    Lycée Saint-Louis (Paris) : 6,67%  
->    Lycée Janson de Sailly (Paris) : 7,47%
+>   Lycée Louis Le Grand (Paris) : 4,28%
+>   Lycée Saint-Louis (Paris) : 9,09%
+>   Lycée Hoche (Versailles) : 9,18%
 >
-> ~ *D'après ParcourSup 2021 et [MP2I de France](https://github.com/mp2i-france/mp2i-france-website/blob/develop/contenu/filiere/la_filiere.md)*
+> ~ *D'après ParcourSup 2021 et [Prépas MP2I](https://prepas-mp2i.github.io/mp2i/)*
 
 ### Phase principale
 
