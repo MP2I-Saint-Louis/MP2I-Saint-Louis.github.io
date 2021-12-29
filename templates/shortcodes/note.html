@@ -1,3 +1,4 @@
-<div style="border: #8f8f8fc7 2px solid;margin-top: 1em;margin-bottom: 1em;padding-top: 1em;padding-bottom: 1em;background-color: #dcdcdc78; border-left-width: 5px !important;">
-    <p style="margin-left: 1em;"><strong>NOTE :</strong> {{ body }}</p>
+<div style="border: #8f8f8fc7 2px solid;margin-top: 1em;padding-left:1em;padding-right:1em;margin-bottom: 1em;padding-top: 1em;padding-bottom: 1em;background-color: #dcdcdc78; border-left-width: 5px !important;">
+    <h6 class="margin-bottom:0 !important;"><strong>NOTE</strong></h6>
+    {{ body | markdown | safe }}
 </div>
