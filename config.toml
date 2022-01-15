@@ -92,3 +92,6 @@ github = "MP2I-Saint-Louis"
 [extra.katex]
 enabled = true
 auto_render = true
+
+[extra.chart]
+enabled=true
