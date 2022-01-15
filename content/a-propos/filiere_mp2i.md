@@ -4,7 +4,7 @@ description = "MP2I Késako?"
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-updated = 2021-12-24
+updated = 2021-01-15
 weight = 30
 [extra]
 author="T. Brillaud"
@@ -44,3 +44,5 @@ Par ailleurs, au second semestre de MP2I, les étudiants doivent choisir une opt
 * * *
 
 Vous pourrez trouver d'autres informations plus globales sur la filière MP2I ici : [Prépas MP2I](https://prepas-mp2i.github.io/mp2i/).
+
+Le lycée Saint-Louis met également à disposition [une courte présentation de la filière](https://www.ac-paris.fr/serail/jcms/s1_2771730/fr/presentation-mp2i2122) et [les compétences et connaissances attendues](https://www.ac-paris.fr/serail/jcms/s2_2672637/fr/mp2i-p).
