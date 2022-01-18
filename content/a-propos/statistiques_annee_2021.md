@@ -40,7 +40,7 @@ Dès lors que l'enseignement était proposé dans leur lycée, nos étudiants on
     "labels": ["Maths", "Physique", "NSI", "SI", "Arts", "LCA", "HLP", "LCE/LCR", "SVT", "SES", "Biologie"],
     "datasets": [
       {
-        "data": [20, 17, 16, 2, 0, 0, 1, 1, 1, 1, 2, 0, 0]
+        "data": [20, 17, 16, 2, 0, 0, 1, 1, 2, 1, 1]
       }
     ]
   },
@@ -134,7 +134,7 @@ D'après les données à notre connaissance, le dernier appelé depuis la liste 
     "labels": ["Les Maths", "La Physique", "L'Informatique théorique", "L'informatique pratique", "Je faisais de l'Info depuis longtemps", "Pour éviter la Chimie", "Ne pas me professionnaliser", "Intégrer une\nGrande École d'Ingé", "Intégrer une Grande École", "Je voulais aller en MPSI originellement", "Je ne savais pas quoi faire d'autre"],
     "datasets": [
       {
-        "data": [16, 9, 13, 13, 4, 5, 6, 7, 3, 2, 0]
+        "data": [16, 9, 13, 13, 4, 5, 6, 7, 3, 2, 1]
       }
     ]
   },
