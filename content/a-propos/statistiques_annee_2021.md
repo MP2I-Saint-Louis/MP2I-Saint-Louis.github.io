@@ -4,7 +4,7 @@ description = "Spécialités, Mixité, Parcoursup... on essaye d'être exhaustif
 sort_by = "date"
 paginate_by = 5
 date = 2021-12-04
-updated = 2021-12-15
+updated = 2021-01-18
 weight = 25
 [extra]
 author = "T. Brillaud"
@@ -40,7 +40,7 @@ Dès lors que l'enseignement était proposé dans leur lycée, nos étudiants on
     "labels": ["Maths", "Physique", "NSI", "SI", "Arts", "LCA", "HLP", "LCE/LCR", "SVT", "SES", "Biologie"],
     "datasets": [
       {
-        "data": [19, 16, 16, 2, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+        "data": [20, 17, 16, 2, 0, 0, 1, 1, 1, 1, 2, 0, 0]
       }
     ]
   },
@@ -134,7 +134,7 @@ D'après les données à notre connaissance, le dernier appelé depuis la liste 
     "labels": ["Les Maths", "La Physique", "L'Informatique théorique", "L'informatique pratique", "Je faisais de l'Info depuis longtemps", "Pour éviter la Chimie", "Ne pas me professionnaliser", "Intégrer une\nGrande École d'Ingé", "Intégrer une Grande École", "Je voulais aller en MPSI originellement", "Je ne savais pas quoi faire d'autre"],
     "datasets": [
       {
-        "data": [16, 8, 13, 12, 3, 4, 6, 7, 3, 1, 0]
+        "data": [16, 9, 13, 13, 4, 5, 6, 7, 3, 2, 0]
       }
     ]
   },
@@ -162,7 +162,7 @@ D'après les données à notre connaissance, le dernier appelé depuis la liste 
 La collecte de ces informations sont encore en cours...
 {% end %}
 
-<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/provenancemp2isl_689322?scaleControl=false&miniMap=true&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=expanded&onLoadPanel=undefined&captionBar=true"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/provenancemp2isl_689322">Voir en plein écran</a></p>
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/provenancemp2isl-2022-01_705522?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/provenancemp2isl-2022-01_705522">Voir en plein écran</a></p>
 
 ## Langues vivantes
 
