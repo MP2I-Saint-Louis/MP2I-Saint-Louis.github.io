@@ -30,7 +30,7 @@ Il s'agit d'une filière très demandante avec près 32.5h de cours en classe ma
 * 3h à 4h de DS par semaine sont à prendre en compte également.
 * 2h de LV2 facultative peuvent s'ajouter.
 * Un grand temps de travail à la maison est à prévoir.
-* Au Second Semestre 4h à 6h sont à rajouter en raison du TIPE (2h) et des options choisies.
+* Au Second Semestre 2h à 4h sont à rajouter en raison du TIPE (2h) et des options choisies.
 
 Néanmoins il est important de que les étudiants gardent une activité extra-scolaire, pour pouvoir se lacher et se détendre.
 

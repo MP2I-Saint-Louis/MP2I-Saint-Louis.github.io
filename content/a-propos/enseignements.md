@@ -30,8 +30,7 @@ L'enseignement de Physique en MP2I est assez unique en son genre, c'est le seul 
 Néanmoins cet enseignement n'est pas à négliger puisqu'il compte pour 6h30 du volume horaire dont 1h30 de TP et 1h de TD.
 De plus, contrairement à la spécialité de Physique de Terminale, on y pousse beaucoup plus loin les concepts déjà vu par le passé mais tout cela se fait avec un rythme beaucoup plus vif.
 
-Il est à noté que la Chimie fera également son retour dès la seconde année pour les options Informatique qui 
-poursuivront en MPI et dès le second semestre pour les options Science de l'Ingénieur.
+Il est à noté que la Chimie pourra faire son retour dès le second semestre pour les options Science de l'Ingénieur.
 
 ### Enseignement d'Informatique
 
