@@ -4,7 +4,7 @@ description = "MP2I Késako?"
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-updated = 2021-01-15
+updated = 2021-01-19
 weight = 30
 [extra]
 author="T. Brillaud"
@@ -12,7 +12,7 @@ author="T. Brillaud"
 
 {{ draft() }}
 
-La filière MP2I est la nouvelle filière de Classe Préparatoire aux Grandes Écoles (CPGE) à dominante Mathématique, Physique et Informatique. Comme son nom l'indique, elle forme ses étudiants au passage des concours des grandes écoles comme CCINP, X/ENS et Mines-Télécom entre autre. Pour cela, chaque MP2I est rattaché à un lycée et forme des classes de 48 étudiants au plus.
+La filière MP2I est la nouvelle filière de Classe Préparatoire aux Grandes Écoles (CPGE) avec pour dominantes les Mathématique, la Physique et l'Informatique. Comme son nom l'indique, elle forme ses étudiants au passage des concours des grandes écoles comme CCINP, X/ENS et Mines-Télécom entre autre. Pour cela, chaque MP2I est rattaché à un lycée et forme des classes de 48 étudiants au plus.
 
 Il s'agit d'une filière très demandante avec près 32.5h de cours en classe mais également de beaucoup de travail personnel.
 
@@ -30,6 +30,7 @@ Il s'agit d'une filière très demandante avec près 32.5h de cours en classe ma
 * 3h à 4h de DS par semaine sont à prendre en compte également.
 * 2h de LV2 facultative peuvent s'ajouter.
 * Un grand temps de travail à la maison est à prévoir.
+* Au Second Semestre 4h à 6h sont à rajouter en raison du TIPE (2h) et des options choisies.
 
 Néanmoins il est important de que les étudiants gardent une activité extra-scolaire, pour pouvoir se lacher et se détendre.
 

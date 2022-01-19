@@ -4,7 +4,7 @@ description = "Spécialités, Mixité, Parcoursup... on essaye d'être exhaustif
 sort_by = "date"
 paginate_by = 5
 date = 2021-12-04
-updated = 2021-01-18
+updated = 2021-01-19
 weight = 25
 [extra]
 author = "T. Brillaud"
@@ -106,7 +106,6 @@ En premier lieu, il est à noter que la filière MP2I du Lycée Saint-Louis figu
 
 Contrairement à d'autres filières et/ou lycées, la MP2I Saint Louis n'a adressé que 48 lettres d'admission le 27 mai 2021 (Jour d'ouverture de la Phase Principale), soit le nombre d'élèves dans le classe.
 
-
 Le dernier appelé au 14 juillet 2021 (fin de la phase principale de ParcourSup 2021) était le 278ème.
 La liste d'attente ne comptait plus que 74 personnes.
 
@@ -117,7 +116,7 @@ La liste d'attente ne comptait plus que 74 personnes.
 ### Après la rentrée
 
 D'après les données à notre connaissance, le dernier appelé depuis la liste d'attente était ~350ème.
-*Sous réserve de confirmation*
+*Sous réserve de confirmation.*
 
 ### Évolution des listes d'attente au cours du temps (TODO)
 
