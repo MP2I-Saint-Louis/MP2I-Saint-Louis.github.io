@@ -49,6 +49,8 @@ Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au f
 * Chapter 22, cf [Chapter 22 & 23](https://quizlet.com/_atr4cy?x=1qqt&i=3xkvg7) par Thomas C.
 * Chapter 23, cf [Chapter 22 & 23](https://quizlet.com/_atr4cy?x=1qqt&i=3xkvg7) par Thomas C.
 * Chapter 29 (en attente de portage)
+* Chapter 30, cf [Chapter 30 & 31](https://quizlet.com/_ausygo?x=1qqt&i=3xkvg7) par Thomas C.
+* Chapter 31, cf [Chapter 30 & 31](https://quizlet.com/_ausygo?x=1qqt&i=3xkvg7) par Thomas C.
 * Chapter 32 (en attente de portage)
 * Chapter 36 (en attente de portage)
 * [Chapter 42](https://quizlet.com/fr/617882829/the-vocabulary-guide-chapter-42-mans-basic-concerns-flash-cards/) par Timothée B.[^1]
