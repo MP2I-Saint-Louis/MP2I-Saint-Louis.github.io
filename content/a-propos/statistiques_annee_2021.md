@@ -4,7 +4,7 @@ description = "Spécialités, Mixité, Parcoursup... on essaye d'être exhaustif
 sort_by = "date"
 paginate_by = 5
 date = 2021-12-04
-updated = 2021-01-19
+updated = 2022-01-25
 weight = 25
 [extra]
 author = "T. Brillaud"

@@ -4,7 +4,7 @@ description = "Quelques informations importantes sur les khôlles de la filière
 sort_by = "date"
 paginate_by = 5
 date = 2021-12-24
-updated = 2021-01-19
+updated = 2022-01-25
 weight = 70
 [extra]
 author = "T. Brillaud"

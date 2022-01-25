@@ -4,7 +4,7 @@ description = "MP2I Késako?"
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-updated = 2021-01-19
+updated = 2022-01-25
 weight = 30
 [extra]
 author="T. Brillaud"

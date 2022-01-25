@@ -2,7 +2,7 @@
 title = "Anglais - Listes de vocabulaire"
 description = "Retrouvez tout le nécessaire pour apprendre votre vocabulaire."
 date = 2021-10-17
-updated = 2021-12-24
+updated = 2022-01-25
 [extra]
 author = "Timothée B."
 +++
@@ -52,7 +52,9 @@ Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au f
 * Chapter 30, cf [Chapter 30 & 31](https://quizlet.com/_ausygo?x=1qqt&i=3xkvg7) par Thomas C.
 * Chapter 31, cf [Chapter 30 & 31](https://quizlet.com/_ausygo?x=1qqt&i=3xkvg7) par Thomas C.
 * Chapter 32 (en attente de portage)
+* Chapter 34, cf [Chapter 34 & 40](https://quizlet.com/_axcfuf?x=1jqt&i=3xkvg7) par Thomas C.
 * Chapter 36 (en attente de portage)
+* Chapter 40, cf [Chapter 34 & 40](https://quizlet.com/_axcfuf?x=1jqt&i=3xkvg7) par Thomas C.
 * [Chapter 42](https://quizlet.com/fr/617882829/the-vocabulary-guide-chapter-42-mans-basic-concerns-flash-cards/) par Timothée B.[^1]
 
 ### Anki

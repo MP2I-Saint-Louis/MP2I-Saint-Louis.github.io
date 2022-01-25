@@ -4,7 +4,7 @@ description = "Quelques informations sur l'équipe qui vous accompagnera tout le
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-updated = 2021-12-15
+updated = 2022-01-25
 weight = 80
 [extra]
 author = "T. Brillaud"
@@ -18,7 +18,7 @@ Pour l'année 2021, l'équipe pédagogique qui nous accompagne est majoritaireme
 
 ### Direction
 * Proviseure : Mme M. BASSO
-* Proviseure adjointe : Mme
+* Proviseure adjointe : Mme ARDITTI
 * CPE: Mme N. Margenin
 
 ### Professeurs
@@ -28,7 +28,3 @@ Pour l'année 2021, l'équipe pédagogique qui nous accompagne est majoritaireme
 * M. J. Delannoy, professeur de Science de l'Ingénieur
 * Mme F. Chapiro, professeure de Français-Philosophie
 * M. C. Moineau, professeur d'EPS
-
-### Infirmerie
-* Mme _
-* Mme _
