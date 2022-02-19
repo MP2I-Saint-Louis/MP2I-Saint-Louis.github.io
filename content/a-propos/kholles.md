@@ -4,7 +4,7 @@ description = "Quelques informations importantes sur les khôlles de la filière
 sort_by = "date"
 paginate_by = 5
 date = 2021-12-24
-updated = 2022-01-25
+updated = 2022-02-19
 weight = 70
 [extra]
 author = "T. Brillaud"
@@ -18,10 +18,12 @@ Les khôlles (ou colles) sont un élément essentiel de l'enseignement de classe
 En MP2I ces khôlles sont organisés de cette manière :
 * 3 semaine sur 4: khôlle de Mathématiques
 * 1 semaine sur 2: khôlle de Physique
-* 1 semaine sur 4: khôlle d'Informatique (sauf 1er semestre)
+* 1 semaine sur 8: khôlle d'Informatique (sauf 1er semestre)
 * 1 semaine sur 2: khôlle de LV1
 
 S'ajoute également à ces deux heures de khôlles par semaine, des khôlles exceptionnelles comme les khôlles de Français et de LV2.
+
+Une khôlle d'informatique toutes les 8 semaines au seconde semestre peut vous sembler peu, il est vrai que la deuxième heure de khôlle allouée à l'Informatique est utilisée pour organiser des TP Notés de 2h type ENS-Centrales au second semestre.
 
 ## Cas des khôlles de Mathématiques et de Physique
 
@@ -32,7 +34,10 @@ La khôlle se décompose en deux parties distinctes :
 
 ## Cas des khôlles d'Informatique
 
-Nous devons attendre le second semestre pour voir le format de ces khôlles, néanmoins elles pourraient prendre différents formats.
+Les khôlles d'informatique sont un peu différente des autres kĥolles mais restent sur le même principe global. Un exercice vous est proposé et vous devez le réaliser au tableau dans le langage de votre choix (C ou OCaml). Les exercices reviennent généralement sur un aspect récent du cours, comme les raisonnements par induction, ou le fonctionnement particulier d'un algorithme déjà vu en cours.
+
+À cela s'ajoute des questions théoriques, entre autres : correction, terminaison, critère de Bellman, etc...
+Également pour évaluer la compréhension de votre exercice, on vous proposera éventuellement d'étudier certains cas spéciaux. Par exemple étudier le pire cas d'un algorithme pour proposer une façon de le corriger.
 
 ## Cas des khôlles de Langues vivantes
 
@@ -53,3 +58,7 @@ Elles sont très similaires aux khôlles de LV1 mais plus libres sur les sujets 
 Au premier semestre, passage à 5/6 sur une heure, vous aurez une question à préparer sur le thême de l'année, c'est à dire en déduire la problématique et établir quelques points d'argumentation dans ce qui ressemble à une oration de dissertation.
 
 *Devrait évoluer au second semestre.*
+
+* * *
+
+*Mis à jour le {{ last_update() }}*
