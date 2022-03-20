@@ -2,7 +2,7 @@
 title = "Anglais - Listes de vocabulaire"
 description = "Retrouvez tout le nécessaire pour apprendre votre vocabulaire."
 date = 2021-10-17
-updated = 2022-01-25
+updated = 2022-03-20
 [extra]
 author = "Timothée B."
 +++
