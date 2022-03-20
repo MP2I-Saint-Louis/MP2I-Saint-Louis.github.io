@@ -28,10 +28,10 @@ Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au f
 
 * 31 janvier : 34, 40
 * 14 février : 26, 69
-* 7 mars : 51, 52
-* 21 mars : 70, 71
-* 4 avril : 66, 77
-* 18 avril : 84, 85
+* 14 mars : 51, 52
+* 28 mars : 70, 71
+* 11 avril : 66, 77
+* 25 avril : 84, 85
 * 9 mai : 90, 91
 * 23 mai : 102, 105
 
@@ -48,6 +48,7 @@ Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au f
 * Chapter 21 (en attente de portage)
 * Chapter 22, cf [Chapter 22 & 23](https://quizlet.com/_atr4cy?x=1qqt&i=3xkvg7) par Thomas C.
 * Chapter 23, cf [Chapter 22 & 23](https://quizlet.com/_atr4cy?x=1qqt&i=3xkvg7) par Thomas C.
+* Chapter 26, cf [Chapter 26 & 69](https://quizlet.com/_b0z1xf?x=1jqt&i=3xkvg7) par Thomas C.
 * Chapter 29 (en attente de portage)
 * Chapter 30, cf [Chapter 30 & 31](https://quizlet.com/_ausygo?x=1qqt&i=3xkvg7) par Thomas C.
 * Chapter 31, cf [Chapter 30 & 31](https://quizlet.com/_ausygo?x=1qqt&i=3xkvg7) par Thomas C.
@@ -56,6 +57,10 @@ Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au f
 * Chapter 36 (en attente de portage)
 * Chapter 40, cf [Chapter 34 & 40](https://quizlet.com/_axcfuf?x=1jqt&i=3xkvg7) par Thomas C.
 * [Chapter 42](https://quizlet.com/fr/617882829/the-vocabulary-guide-chapter-42-mans-basic-concerns-flash-cards/) par Timothée B.[^1]
+* Chapter 51, cf [Chapter 51 & 52](https://quizlet.com/_b61uqe?x=1jqt&i=3xkvg7) par Thomas C.
+* Chapter 52, cf [Chapter 51 & 52](https://quizlet.com/_b61uqe?x=1jqt&i=3xkvg7) par Thomas C.
+* Chapter 69, cf [Chapter 26 & 69](https://quizlet.com/_b0z1xf?x=1jqt&i=3xkvg7) par Thomas C.
+
 
 ### Anki
 
@@ -64,7 +69,6 @@ Les listes Anki sont généralement composées des cartes basiques et renversée
 * [Chapter 4](/anki/MP2I%20-%20Anglais__Vocabulary%204.apkg) par Timothée B.[^1]
 * [Chapter 7](/anki/MP2I%20-%20Anglais__Vocabulary%207.apkg) par Timothée B.[^1]
 * [Chapter 8](/anki/MP2I%20-%20Anglais__Vocabulary%208.apkg) par Timothée B.[^1]
-* Chapter 9 (attente de droit de redistribution)
 * [Chapter 15](/anki/MP2I%20-%20Anglais__Vocabulary%2015.apkg) par Timothée B.[^1]
 * [Chapter 16](/anki/MP2I%20-%20Anglais__Vocabulary%2016.apkg) par Timothée B.[^1]
 * [Chapter 20](/anki/MP2I%20-%20Anglais__Vocabulary%2020.apkg) par Timothée B.[^1]
