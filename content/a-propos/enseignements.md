@@ -4,14 +4,12 @@ description = "Quelques informations importantes sur les enseignements de la fil
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-updated = 2022-01-25
+updated = 2022-04-25
 weight = 40
 [extra]
 author = "T. Brillaud"
 toc = true
 +++
-
-{{ draft() }}
 
 La MP2I est une filière qui vous tente, mais peut-être voudriez vous en savoir un peu plus sur les différents enseignements de la filière, vous voilà comblé :)
 Par ailleurs deux à trois heures de khôlles par semaine accompagnent toutes ces heures de cours, plus d'information dans le post [Kholles](@/a-propos/kholles.md).
@@ -59,13 +57,11 @@ De plus les heures de TP/TD ont toutes été assurées en salle informatique pou
 
 Au second semestre, deux enseignements d'Informatique coexistent, celui d'IPT (Informatique pour tous) de 2h pour les options SI et celui d'Informatique de 6h pour les options Informatique.
 
-Dans le cadre de l'option Informatique, vous aurez alors des khôlles d'informatique dont le format peut varier, mais également 3h de cours, 1h30 de TD et 1h de TP.
+Dans le cadre de l'option Informatique, vous aurez alors des khôlles d'informatique (cf. [Kholles](@/a-propos/kholles.md)) dont le format peut varier, mais également 3h de cours, 1h30 de TD et 1h de TP.
 
 ### Enseignement de Science de l'Ingénieur [TODO]
 
-#### Premier Semestre
-
-#### Second Semestre
+{{ incomplete() }}
 
 ### Choix d'Enseignement optionnel
 * Science de l'Ingénieur - 2h
@@ -73,7 +69,7 @@ Dans le cadre de l'option Informatique, vous aurez alors des khôlles d'informat
 
 Il est important de prendre en compte que ces enseignements optionnels influent sur la voie que vous pouvez poursuivre en seconde année.  
 Dans le cas de l'option Informatique, celle-ci amène naturellement à une seconde année en MPI (Mathématique Physique Informatique).  
-Quant à l'option Science de l'Ingénieur, elle amène aux différentes filières : MP option Info (pas disponible au lycée Saint-Louis), MP option SI, ou PSI.
+Quant à l'option Science de l'Ingénieur, elle amène aux différentes filières : MP option Info (non-proposée au lycée Saint-Louis), MP option SI, ou PSI.
 
 ### Enseignements de Langue Vivante
 
@@ -88,13 +84,13 @@ Les différentes langues vivantes disponibles au lycée Saint-Louis sont :
 * Allemand 
 * Espagnol
 * Chinois (enseigné au lycée Henri IV)
-* Arabe (enseigné au lycée Louis-Le-Grand)
+* Arabe (enseigné au lycée Louis Le Grand)
 
 ### Enseignement de Français-Philosophie 
 
 L'Enseignement de Français-Philosophie fait parti des enseignements obligatoires de classe préparatoire et parmi l'une des matières les plus valorisées aux concours. Ainsi cette manière compte tout naturellement 2h de cours par semaine pour vous faire travailler les deux exercices que sont la dissertation et le résumé sur Oeuvres.
 
-Les Oeuvres sont connues avant chaque début d'année est sont communes à toutes les classes préparatoires de première et seconde année. Il est primordiale d'acheter les livres et de les lire pendant les vacances d'été pour être au point à la rentrée. À noter que certains professeurs ont tendance à évaluer la lecture de ces oeuvres en début d'année.
+Les Oeuvres sont connues avant chaque début d'année est sont communes à toutes les classes préparatoires de première et de seconde année. Il est primordiale d'acheter les livres et de les lire pendant les vacances d'été pour être au point à la rentrée. À noter que certains professeurs ont tendance à évaluer la lecture de ces oeuvres en début d'année.
 
 ### Enseignement d'Éducation Physique et Sportive [Obligatoire]
 

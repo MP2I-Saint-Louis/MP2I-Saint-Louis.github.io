@@ -4,13 +4,11 @@ description = "MP2I Késako?"
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-updated = 2022-01-25
+updated = 2022-04-25
 weight = 30
 [extra]
 author="T. Brillaud"
 +++
-
-{{ draft() }}
 
 La filière MP2I est la nouvelle filière de Classe Préparatoire aux Grandes Écoles (CPGE) avec pour dominantes les Mathématique, la Physique et l'Informatique. Comme son nom l'indique, elle forme ses étudiants au passage des concours des grandes écoles comme CCINP, X/ENS et Mines-Télécom entre autre. Pour cela, chaque MP2I est rattaché à un lycée et forme des classes de 48 étudiants au plus.
 

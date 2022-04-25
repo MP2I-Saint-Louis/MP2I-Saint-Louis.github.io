@@ -4,14 +4,12 @@ description = "Spécialités, Mixité, Parcoursup... on essaye d'être exhaustif
 sort_by = "date"
 paginate_by = 5
 date = 2021-12-04
-updated = 2022-01-25
+updated = 2022-04-25
 weight = 25
 [extra]
 author = "T. Brillaud"
 toc = true
 +++
-
-{{ draft() }}
 
 Pour cette première année pour la classe de MP2I, le lycée Saint-Louis accueille 48 élèves de toute la France. 
 Ici sont rassemblées quelques statistiques sur la classe.
@@ -52,7 +50,8 @@ Dès lors que l'enseignement était proposé dans leur lycée, nos étudiants on
 {% end %}
 
 {% note() %}
-Ces résultats ne représentent pas encore la totalité des étudiants de la MP2I Saint-Louis.
+Ces résultats sont incomplets et ne représentent pas la totalité des étudiants de la MP2I Saint-Louis. Il
+seront peut-être complétés l'an prochain.
 {% end %}
 
 ## Mathématiques et ses 3 niveaux
@@ -76,15 +75,15 @@ Ce chiffre devrait augmenter dans les mois à venir.
   "type": "Line",
   "yLabel": "Compte",
   "data": {
-    "labels": ["Pré-Rentrée", "Rentrée", "Septembre", "Octobre", "Novembre", "Décembre", "Janvier"],
+    "labels": ["Pré-Rentrée", "Rentrée", "Septembre", "Octobre", "Novembre", "Décembre", "Janvier", "Février", "Mars", "Avril"],
     "datasets": [
       {
         "label": "Étudiants",
-        "data": [48, 47, 47, 47, 47, 46, 46]
+        "data": [48, 47, 47, 47, 47, 46, 46, 46, 46, 46]
       },
       {
         "label": "Démissionaires",
-        "data": [0, 2, 2, 2, 2, 3, 3]
+        "data": [0, 2, 2, 2, 2, 3, 3, 3, 3, 3]
       }
     ]
   }
@@ -120,7 +119,7 @@ D'après les données à notre connaissance, le dernier appelé depuis la liste 
 
 ### Évolution des listes d'attente au cours du temps (TODO)
 
-*TODO*
+{{ incomplete() }}
 
 ## Motivations d'entrée en MP2I (TODO)
 
@@ -143,25 +142,27 @@ D'après les données à notre connaissance, le dernier appelé depuis la liste 
 }
 {% end %}
 
-*Les données ne représentent pas encore l'intégralité de la classe.*
+*Ces données sont incomplètes et ne représentent pas l'intégralité de la classe.*
 
 ### Choix provisoires pour la seconde année
 
-À ce jour, la majorité des étudiants pense continuer en MPI/MPI*[^1] l'an prochain.
+À ce jour, l'intégralité des étudiants ont continué l'Option Informatique au second semestre, leur permettant d'entrer en MPI/MPI*[^1] l'an prochain.
 
 ## Régime Interne/Interne-Exterbe/DP/Externe (TODO)
 
+{{ incomplete() }}
+
 ## Logements (et transports) (TODO)
+
+{{ incomplete() }}
 
 ## Provenance (TODO)
 
-***TODO:** Lycée / Région*
-
-{% note() %}
-La collecte de ces informations sont encore en cours...
-{% end %}
+{{ incomplete() }}
 
 <iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/provenancemp2isl-2022-01_705522?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/provenancemp2isl-2022-01_705522">Voir en plein écran</a></p>
+
+D'après les données de [Parcoursup 2021](https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili&refine.fili=CPGE&refine.form_lib_voe_acc=Classe%20pr%C3%A9paratoire%20scientifique&refine.fil_lib_voe_acc=MP2I&refine.g_ea_lib_vx=Lyc%C3%A9e%20Saint-Louis%20(6%C3%A8me)), 11% des intégrés étaient dans un lycée de l'académie de Paris et 46% étaient scolarisés dans un lycée d'Ile-de-France.
 
 ## Langues vivantes
 
@@ -175,6 +176,8 @@ On compte aussi parmi nous quelques LV1 Allemand et LV1 Espagnol.
 
 ## Résultats au baccalauréat
 
+{{ incomplete() }}
+
 Finalement, quelques statistiques sur les résultats au baccalauréat des étudiants de MP2I.
 
 {% note() %}
@@ -183,8 +186,10 @@ Ces résultats sont à prendre avec du recul. On rappelle qu'il n'y a pas eu d'�
 
 {% end %}
 
-***TODO***
+D'après les données de [Parcoursup 2021](https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili&refine.fili=CPGE&refine.form_lib_voe_acc=Classe%20pr%C3%A9paratoire%20scientifique&refine.fil_lib_voe_acc=MP2I&refine.g_ea_lib_vx=Lyc%C3%A9e%20Saint-Louis%20(6%C3%A8me)), 91% des intégrés ont obtenu une mention Très Bien au baccalauréat générale, les 9% restant ont quant à eux obtenu la mention Bien.
 
 * * *
 
 [^1]: Est officielle l'ouverture d'une classe double MPI/MPI* à la rentrée 2022 au lycée Saint-Louis.
+
+*Mis à jour le {{ last_update() }}*

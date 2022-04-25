@@ -4,14 +4,12 @@ description = "Quelques informations importantes sur les khôlles de la filière
 sort_by = "date"
 paginate_by = 5
 date = 2021-12-24
-updated = 2022-02-19
+updated = 2022-04-25
 weight = 70
 [extra]
 author = "T. Brillaud"
 toc = true
 +++
-
-{{ draft() }}
 
 Les khôlles (ou colles) sont un élément essentiel de l'enseignement de classe préparatoire. Il s'agit d'une évaluation orale devant un examinateur (le khôlleur) sur une matière donnée en trinôme. Selon la matière, la méthode d'évaluation diffère.
 
@@ -41,7 +39,7 @@ Les khôlles d'informatique sont un peu différente des autres kĥolles mais res
 
 ## Cas des khôlles de Langues vivantes
 
-Contrairement aux autres khôlles, vous passez 20min seul devant l'examinateur. L'objet est ici de proposer un commentaire en 10min sur un article de presse d'actualité que l'on vous fournir 20min auparavant, au delà de ces 10min, vous aurez 10min d'échange avec l'examinateur.
+Contrairement aux autres khôlles, vous passez 20min seul devant l'examinateur. L'objet est ici de proposer un commentaire en 10min sur un article de presse d'actualité que l'on vous fournira 20min avant, passé ces 10min, vous aurez 10min d'échange avec l'examinateur.
 
 Au début d'année, les kholleurs peuvent fournir leur article la veille de la khôlle et/ou adapter le fonctionnement de la khôlle (comme proposer un passage à 3).
 
@@ -55,9 +53,7 @@ Elles sont très similaires aux khôlles de LV1 mais plus libres sur les sujets 
 
 ## Cas des khôlles de Français-Philosophie
 
-Au premier semestre, passage à 5/6 sur une heure, vous aurez une question à préparer sur le thême de l'année, c'est à dire en déduire la problématique et établir quelques points d'argumentation dans ce qui ressemble à une oration de dissertation.
-
-*Devrait évoluer au second semestre.*
+Au premier semestre, passage à 5/6 sur une heure, vous aurez une question à préparer sur le thême de l'année, c'est à dire en déduire la problématique et établir quelques points d'argumentation dans ce qui ressemble à une oration de dissertation. *Peut évoluer au semestre 2*.
 
 * * *
 

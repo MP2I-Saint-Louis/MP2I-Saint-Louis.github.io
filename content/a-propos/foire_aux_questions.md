@@ -2,13 +2,13 @@
 title = "Foire aux Questions (FAQ)"
 description = "Trouvez réponses à vos questions"
 date = 2021-12-15
-updated = 2022-02-19
+updated = 2022-04-25
 weight = 20
 +++
 
-{{ draft() }}
+{{ incomplete() }}
 
-Nous attendons impatiemment vos questions. N'hésitez pas à les soumettre à Timothée B., [fusetim[dot]log[at]gmx[dot]com](mailto:fusetim[dot]log[at]gmx[dot]com).
+N'hésitez pas à soumettre vos questions à Timothée B., [fusetim[dot]log[at]gmx[dot]com](mailto:fusetim[dot]log[at]gmx[dot]com). Celles qui reviendront le plus seront ajoutées à la liste.
 
 ### Quand aura-lieu la Journée Portes Ouvertes ?
 
@@ -35,6 +35,10 @@ En complément de la JPO en présentiel, les autres étudiants de MP2I de France
 Nous espérons que vous serez nombreux à nous rejoindre pour nous poser toutes vos questions et participer aux différentes présentations des différents organisateurs de l'évènement.
 
 Plus d'information ici : [Forum - Prépas MP2I](https://prepas-mp2i.fr/forum/).
+
+### D'autres questions sur la MP2I ?
+
+Rythme de sommeil, LVB, mixité, choix d'options, il y a tant d'autres questions, certaines ont déjà leur réponse ici : [FAQ - Prépas MP2I](https://prepas-mp2i.fr/faq/).
 
 * * *
 
