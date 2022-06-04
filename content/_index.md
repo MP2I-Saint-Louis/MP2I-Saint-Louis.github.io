@@ -9,3 +9,5 @@ La filière MP2I (Mathématiques Physique Informatique et Ingénierie) est une d
 Dans le cadre de cette nouvelle filière, le lycée Saint Louis accueille aujourd'hui 48 élèves en MP2I et ouvrira dès 2022 une classe de 2ème année MPI/MPI*. Ce site vient établir un premier lien avec les futurs lycéens qui entreront bientôt au Lycée Saint Louis mais aussi avec tout ceux qui s'orienteront vers d'autres MP2I ou encore d'autres voies. Découvrez donc ici votre futur chez-vous.
 
 Pour en savoir plus, sur le lycée Saint Louis et sa filière MP2I, n'hésitez pas à jeter un oeil à la catégorie [À propos](@/a-propos/_index.md) et à notre [Foire aux Questions](@/a-propos/foire_aux_questions.md).
+
+**Regroupement des futurs admis et espace d'échange (Rentrée 2022-2023) : *[Découvrir maintenant !](@/articles/regroupe-sups-pre-rentree.md)***
