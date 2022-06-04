@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mp2i-saint-louis.github.io/sitemap.xml
