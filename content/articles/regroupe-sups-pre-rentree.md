@@ -28,9 +28,9 @@ Cet espace prend la forme d'un serveur Discord géré par les étudiants de MP2I
 L'accès y est réglementé selon les formalités ci-contre. Toute demande d'accès se fait par mail ou contact Discord sur 
 les serveurs existants MP2I de France / Prépas MP2I et Prépas de France.
 
-Nous savons que les premiers admis ne seront certainement pas les futurs intégrés de la rentrée 2022 : **ce n'est pas un souci, vous pouvez rejoindre dès lors que vous avez accepté temporairement ou définitivement un vœu en MP2I au lycée Saint Louis** (ou exception, cf. Phase 2).
+Nous savons que les premiers admis ne seront certainement pas les futurs intégrés de la rentrée 2022 : **ce n'est pas un souci, vous pouvez rejoindre dès lors que vous avez accepté temporairement ou définitivement un vœu en MP2I au lycée Saint Louis** (ou si vous êtes en liste d'attente selon modalités).
 
-Afin de permettre l'accès aux plus grands nombres d'intégrés, un système d'ouverture par phase est prévu. Veuillez vous conformer au système de phase et d'envoyer les documents nécessaire lors de votre demande.
+Afin de permettre l'accès aux plus grands nombres d'intégrés, un système d'ouverture par phase est prévu. Veuillez vous conformer au système de phase et envoyer les documents nécessaires lors de votre demande.
 
 ### Première vague - 5 Juin
 
@@ -64,7 +64,7 @@ Afin de faire valoir ses accès à l'espace entre-admis, il est demandé de four
 * Rang de classement de votre dossier dans la formation
 * Rang dans la liste d'attente (le cas échéant) 
 * Date d'acceptation du vœu (le cas échéant)
-* Une capture d'écran (Téléphone ou PC) du voeu en question 
+* Une capture d'écran (Téléphone ou PC) du voeu en question au format PNG ou JPG : 
     * Si vous avez accepté (ou que le voeu vous a été proposé), il devra comprendre de façon lisible :
         - Nom complet de la formation
         - Date d'acceptation
