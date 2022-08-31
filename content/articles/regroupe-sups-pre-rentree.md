@@ -7,6 +7,8 @@ updated = 2022-06-04
 author = "T. Brillaud"
 +++
 
+{{ outdated() }}
+
 Le 2 juin 2022 approche, jour fatidique des premiers résultats Parcoursup pour les Terminales 2021-2022. À cette date, vous 
 découvrirez quelles formations vous ouvrent les portes et s'ajoutera le stress de décider où vous passerez vos prochaines années dans l'Enseignement supérieur.
 
@@ -80,7 +82,7 @@ Afin de faire valoir ses accès à l'espace entre-admis, il est demandé de four
 
 La demande devra se faire en MP Discord si vous connaissez un MP2I de cette année, il vous indiquera à qui donner ces informations.
 
-Autrement, la demande se fait par mail à : `fusetim [dot] log [at] gmx [dot] com`.[^2]
+Autrement, la demande se fait par mail à : @REDACTED@.[^2]
 
 * * *
 

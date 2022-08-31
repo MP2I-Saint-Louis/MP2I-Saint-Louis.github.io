@@ -9,6 +9,8 @@ updated = 2021-10-17
 author = "Admin"
 +++
 
+{{ outdated() }}
+
 **Edition du :** {{ last_update() }}
 
 Ici sont décrites, les mentions légales nécessaires à la publication d'un site à destination et/ou depuis la France.

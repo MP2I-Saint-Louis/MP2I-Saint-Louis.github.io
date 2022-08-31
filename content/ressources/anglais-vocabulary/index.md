@@ -7,6 +7,9 @@ updated = 2022-03-20
 author = "Timothée B."
 +++
 
+{{ outdated() }}
+{{ incomplete() }}
+
 ## Listes - The Vocabulary Guide
 
 Les listes Quizlet et Anki sont interchangeables, il suffit de les exporter au format CSV pour permettre leur portabilité d'un service à l'autre.

@@ -10,6 +10,8 @@ weight = 30
 author="T. Brillaud"
 +++
 
+{{ outdated() }}
+
 La filière MP2I est la nouvelle filière de Classe Préparatoire aux Grandes Écoles (CPGE) avec pour dominantes les Mathématique, la Physique et l'Informatique. Comme son nom l'indique, elle forme ses étudiants au passage des concours des grandes écoles comme CCINP, X/ENS et Mines-Télécom entre autre. Pour cela, chaque MP2I est rattaché à un lycée et forme des classes de 48 étudiants au plus.
 
 Il s'agit d'une filière très demandante avec près 32.5h de cours en classe mais également de beaucoup de travail personnel.

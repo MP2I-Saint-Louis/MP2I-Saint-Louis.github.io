@@ -10,6 +10,8 @@ weight = 80
 author = "T. Brillaud"
 +++
 
+{{ outdated() }}
+
 Le lycée Saint Louis saura bien prendre soin de vous quoiqu'il arrive au long de ces quelques années que vous passerez à l'intérieur. 
 
 Pour l'année 2021, l'équipe pédagogique qui nous accompagne est majoritairement féminine, et voilà ceux que vous croiserez le plus souvent:

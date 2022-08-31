@@ -8,6 +8,6 @@ Le lycée Saint-Louis au coeur du Quartier Latin est le seul lycée en France d�
 La filière MP2I (Mathématiques Physique Informatique et Ingénierie) est une des nouvelles filières de la rentrée 2021, et accueille pour cette première année près de 1000 élèves à travers 26 établissements en France et en Outre-Mer. En suivant cette filière, vous aurez l'occasion de faire de grands progrès en Mathématiques, en Physique et en Informatique qui sont les 3 majeurs de cette filière.  
 Dans le cadre de cette nouvelle filière, le lycée Saint Louis accueille aujourd'hui 48 élèves en MP2I et ouvrira dès 2022 une classe de 2ème année MPI/MPI*. Ce site vient établir un premier lien avec les futurs lycéens qui entreront bientôt au Lycée Saint Louis mais aussi avec tout ceux qui s'orienteront vers d'autres MP2I ou encore d'autres voies. Découvrez donc ici votre futur chez-vous.
 
-Pour en savoir plus, sur le lycée Saint Louis et sa filière MP2I, n'hésitez pas à jeter un oeil à la catégorie [À propos](@/a-propos/_index.md) et à notre [Foire aux Questions](@/a-propos/foire_aux_questions.md).
+***Note:** Ce site n'a pas été mis à jour pour la rentrée 2022. Tout son contenu concernent encore la première année de MP2I (2021-2022) au lycée Saint-Louis.*
 
-**Regroupement des futurs admis et espace d'échange (Rentrée 2022-2023) : *[Découvrir maintenant !](@/articles/regroupe-sups-pre-rentree.md)***
+Pour en savoir plus, sur le lycée Saint Louis et sa filière MP2I, n'hésitez pas à jeter un oeil à la catégorie [À propos](@/a-propos/_index.md) et à notre [Foire aux Questions](@/a-propos/foire_aux_questions.md).

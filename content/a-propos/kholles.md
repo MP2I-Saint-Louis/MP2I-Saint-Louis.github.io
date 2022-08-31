@@ -11,6 +11,8 @@ author = "T. Brillaud"
 toc = true
 +++
 
+{{ outdated() }}
+
 Les khôlles (ou colles) sont un élément essentiel de l'enseignement de classe préparatoire. Il s'agit d'une évaluation orale devant un examinateur (le khôlleur) sur une matière donnée en trinôme. Selon la matière, la méthode d'évaluation diffère.
 
 En MP2I ces khôlles sont organisés de cette manière :

@@ -6,6 +6,9 @@ date = 2021-11-27
 updated = 2021-12-15
 +++
 
+{{ outdated() }}
+{{ incomplete() }}
+
 Ici sont référencés quelques liens vers des ressources faisant mention du lycée Saint-Louis et
 en particulier de sa nouvelle filière MP2I.
 

@@ -6,9 +6,8 @@ updated = 2022-04-25
 weight = 20
 +++
 
+{{ outdated() }}
 {{ incomplete() }}
-
-N'hésitez pas à soumettre vos questions à Timothée B., [fusetim[dot]log[at]gmx[dot]com](mailto:fusetim[dot]log[at]gmx[dot]com). Celles qui reviendront le plus seront ajoutées à la liste.
 
 ### Quand aura-lieu la Journée Portes Ouvertes ?
 

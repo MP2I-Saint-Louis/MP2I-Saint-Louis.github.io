@@ -11,6 +11,8 @@ author = "T. Brillaud"
 toc = true
 +++
 
+{{ outdated() }}
+
 La MP2I est une filière qui vous tente, mais peut-être voudriez vous en savoir un peu plus sur les différents enseignements de la filière, vous voilà comblé :)
 Par ailleurs deux à trois heures de khôlles par semaine accompagnent toutes ces heures de cours, plus d'information dans le post [Kholles](@/a-propos/kholles.md).
 

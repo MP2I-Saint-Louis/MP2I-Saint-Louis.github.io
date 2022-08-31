@@ -4,12 +4,14 @@ description = "Spécialités, Mixité, Parcoursup... on essaye d'être exhaustif
 sort_by = "date"
 paginate_by = 5
 date = 2021-12-04
-updated = 2022-04-25
+updated = 2022-08-31
 weight = 25
 [extra]
 author = "T. Brillaud"
 toc = true
 +++
+
+{{ outdated() }}
 
 Pour cette première année pour la classe de MP2I, le lycée Saint-Louis accueille 48 élèves de toute la France. 
 Ici sont rassemblées quelques statistiques sur la classe.
@@ -68,22 +70,24 @@ Plus d'information dans le post [Enseignements](@/a-propos/enseignements.md).
 Au jour d'aujourd'hui, il n'y a eu que deux abandons en tout début d'année, dont un remplacé.
 Ce chiffre devrait augmenter dans les mois à venir.
 
-***EDIT***: Un abandon de plus au 13 décembre 2021. Nous lui souhaitons le meilleur pour la suite.
+***EDIT***: Un abandon de plus au 13 décembre 2021. Nous lui souhaitons le meilleur pour la suite.  
+***EDIT2***: Trois personnes nous ont également quitté à la fin de l'année, nous leur souhaitons également 
+une bonne continuation dans leurs études.
 
 {% chart() %}
 {
   "type": "Line",
   "yLabel": "Compte",
   "data": {
-    "labels": ["Pré-Rentrée", "Rentrée", "Septembre", "Octobre", "Novembre", "Décembre", "Janvier", "Février", "Mars", "Avril"],
+    "labels": ["Pré-Rentrée", "Rentrée", "Septembre", "Octobre", "Novembre", "Décembre", "Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet"],
     "datasets": [
       {
         "label": "Étudiants",
-        "data": [48, 47, 47, 47, 47, 46, 46, 46, 46, 46]
+        "data": [48, 47, 47, 47, 47, 46, 46, 46, 46, 46, 46, 46, 43]
       },
       {
         "label": "Démissionaires",
-        "data": [0, 2, 2, 2, 2, 3, 3, 3, 3, 3]
+        "data": [0, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 6]
       }
     ]
   }
