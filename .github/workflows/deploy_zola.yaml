@@ -5,12 +5,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: actions/checkout@v2
-      - name: build_and_deploy
-        uses: shalzz/zola-deploy-action@v0.14.1
-        env:
-          # Target branch
-          PAGES_BRANCH: gh-pages
-          # Provide personal access token
-          TOKEN: ${{ secrets.ZOLA_PAT }}
+    - name: Checkout main
+      uses: actions/checkout@v3.0.0
+    - name: Build and deploy
+      uses: shalzz/zola-deploy-action@v0.17.2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Target branch
+        PAGES_BRANCH: gh-pages
