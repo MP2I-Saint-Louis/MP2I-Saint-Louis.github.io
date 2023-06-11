@@ -44,6 +44,6 @@ Par ailleurs, au second semestre de MP2I, les étudiants doivent choisir une opt
 
 * * *
 
-Vous pourrez trouver d'autres informations plus globales sur la filière MP2I ici : [Prépas MP2I](https://prepas-mp2i.github.io/mp2i/).
+Vous pourrez trouver d'autres informations plus globales sur la filière MP2I ici : [Prépas MP2I](https://prepas-mp2i.fr/mp2i/).
 
 Le lycée Saint-Louis met également à disposition [une courte présentation de la filière](https://www.ac-paris.fr/serail/jcms/s1_2771730/fr/presentation-mp2i2122) et [les compétences et connaissances attendues](https://www.ac-paris.fr/serail/jcms/s2_2672637/fr/mp2i-p).

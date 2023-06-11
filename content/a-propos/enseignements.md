@@ -4,7 +4,7 @@ description = "Quelques informations importantes sur les enseignements de la fil
 sort_by = "date"
 paginate_by = 5
 date = 2021-09-28
-updated = 2022-04-25
+updated = 2023-06-06
 weight = 40
 [extra]
 author = "T. Brillaud"
@@ -43,7 +43,7 @@ L'enseignement d'Informatique est un peu particulier car il est commun au premie
 
 Vous aurez également l'occasion de maitriser deux langages de programmation: le C et le OCaml qui permettront d'aborder les cotés impératif et fonctionnel au long de l'année.
 
-Vous pourrez trouver quelques informations supplémentaires sur [Prépas MP2I](https://prepas-mp2i.github.io/informatique/).
+Vous pourrez trouver quelques informations supplémentaires sur [Prépas MP2I](https://prepas-mp2i.fr/informatique/).
 
 Les programmes d'Informatique de MP2I et MPI sont disponibles sur [education.gouv.fr](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/64/6/spe777_annexe_1373646.pdf).
 
@@ -66,7 +66,7 @@ Dans le cadre de l'option Informatique, vous aurez alors des khôlles d'informat
 {{ incomplete() }}
 
 ### Choix d'Enseignement optionnel
-* Science de l'Ingénieur - 2h
+* Science de l'Ingénieur (2h de SI et 2h de Chimie)
 * Informatique - 2h
 
 Il est important de prendre en compte que ces enseignements optionnels influent sur la voie que vous pouvez poursuivre en seconde année.  

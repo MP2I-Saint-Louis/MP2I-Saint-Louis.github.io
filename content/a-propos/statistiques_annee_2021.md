@@ -103,7 +103,7 @@ En premier lieu, il est à noter que la filière MP2I du Lycée Saint-Louis figu
 >   Lycée Saint-Louis (Paris) : 9,09%  
 >   Lycée Hoche (Versailles) : 9,18%  
 >
-> ~ *D'après ParcourSup 2021 et [Prépas MP2I](https://prepas-mp2i.github.io/mp2i/)*
+> ~ *D'après ParcourSup 2021 et [Prépas MP2I](https://prepas-mp2i.fr/mp2i/)*
 
 ### Phase principale
 

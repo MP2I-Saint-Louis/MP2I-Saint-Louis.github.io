@@ -2,7 +2,7 @@
 title = "Foire aux Questions (FAQ)"
 description = "Trouvez réponses à vos questions"
 date = 2021-12-15
-updated = 2022-04-25
+updated = 2023-06-11
 weight = 20
 +++
 
@@ -38,6 +38,10 @@ Plus d'information ici : [Forum - Prépas MP2I](https://prepas-mp2i.fr/forum/).
 ### D'autres questions sur la MP2I ?
 
 Rythme de sommeil, LVB, mixité, choix d'options, il y a tant d'autres questions, certaines ont déjà leur réponse ici : [FAQ - Prépas MP2I](https://prepas-mp2i.fr/faq/).
+
+### Contact
+
+Nous contacter ? Référez vous à la page [Prépas MP2I/MPI - Contact](https://prepas-mp2i.fr/contact/).
 
 * * *
 
