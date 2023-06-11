@@ -1,7 +1,7 @@
 +++
 title = "MP2I Saint Louis"
 description = "Site de la MP2I du lycée Saint Louis, Paris VI."
-updated = 2021-12-15
+updated = 2023-06-11
 +++
 
 Le lycée Saint-Louis au coeur du Quartier Latin est le seul lycée en France dédié uniquement aux Classes Préparatoires aux Grandes Écoles. Par delà, il s'attrait d'une équipe pédagogique et de khôlleurs de grande qualités et il vous sera ainsi facilité votre entrée dans le supérieur et votre préparation pour les concours communs de 2ème année.   
@@ -9,5 +9,7 @@ La filière MP2I (Mathématiques Physique Informatique et Ingénierie) est une d
 Dans le cadre de cette nouvelle filière, le lycée Saint Louis accueille aujourd'hui 48 élèves en MP2I et ouvrira dès 2022 une classe de 2ème année MPI/MPI*. Ce site vient établir un premier lien avec les futurs lycéens qui entreront bientôt au Lycée Saint Louis mais aussi avec tout ceux qui s'orienteront vers d'autres MP2I ou encore d'autres voies. Découvrez donc ici votre futur chez-vous.
 
 ***Note:** Ce site n'a pas été mis à jour pour la rentrée 2022. Tout son contenu concernent encore la première année de MP2I (2021-2022) au lycée Saint-Louis.*
+
+***Important:** [Regroupement des admissibles](@/articles/regroupe-sups-pre-rentree-2023.md) au lycée Saint Louis en MP2I (Parcoursup 2023).*
 
 Pour en savoir plus, sur le lycée Saint Louis et sa filière MP2I, n'hésitez pas à jeter un oeil à la catégorie [À propos](@/a-propos/_index.md) et à notre [Foire aux Questions](@/a-propos/foire_aux_questions.md).
