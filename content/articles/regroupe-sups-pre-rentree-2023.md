@@ -28,7 +28,8 @@ demandée. Toute demande d'accès se fait par contact Discord sur les serveurs [
 et Prépas de France, au près d'un des représentants de la MP2I du lycée Saint-Louis. Si besoin, 
 demandez l'accès à notre référente Ylan (@ylan#5903).
 
-Nous savons que les premiers admis ne seront certainement pas les futurs intégrés de la rentrée 2022 : **ce n'est pas un souci, vous pouvez rejoindre dès lors que vous avez accepté temporairement ou définitivement un vœu en MP2I au lycée Saint Louis** (ou si vous êtes en liste d'attente selon modalités).
+Nous savons que les premiers admis ne seront certainement pas les futurs intégrés de la rentrée 2022 : **ce n'est pas un souci, vous pouvez rejoindre dès lors que vous avez accepté temporairement ou définitivement un vœu en MP2I au lycée Saint Louis** (ou si vous êtes en liste d'attente et proche 
+d'être admis).
 
 ### Documents à transmettre 
 
