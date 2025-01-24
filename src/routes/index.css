@@ -1,0 +1,127 @@
+header {
+    display: flex;
+    flex-direction: column;
+
+    /* Elevation drop-shadow */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+header img {
+    width: 100%;
+    height: calc(min(40rem, 30vh));
+    object-fit: cover;
+    object-position: center;
+}
+
+#header-text {
+    margin: 0;
+    padding: 1.5rem 0;
+
+    background-color: #F5F8FF;
+}
+
+#header-text p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 2.25rem;
+    line-height: 2.25rem;
+    color: var(--color-primary);
+    /* Drop shadow */
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#header-trail {
+    background-color: var(--color-primary);
+    height: 0.15rem;
+    width: 1rem;
+    margin-left: 0.25rem;
+    margin-top: -0.1rem;
+    border-radius: 99999px;
+    border: 1px solid var(--color-primary);
+}
+
+.wider-container {
+    display: block;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    max-width: calc(min(1200px, 100vw));
+}
+
+.container {
+    display: block;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    max-width: calc(min(800px, 100vw));
+}
+
+aside {
+    background-color: var(--background-indicative);
+    border-left: 0.25rem solid var(--border-indicative);
+    padding: 1rem 0.5rem;
+}
+
+aside h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    color: var(--color-primary);
+}
+
+#quick-links {
+    /* Elevation drop-shadow */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#quick-links ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 1rem 0 0 0;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: start;
+}
+
+#quick-links li {
+    margin: 0.25rem;
+    display: block;
+}
+
+#quick-links li a {
+    display: block;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1rem;
+
+    text-decoration: none;
+    color: white;
+    background-color: var(--color-primary);
+
+    padding: 0.75rem 1rem 0.5rem;
+
+    /* outline ring */
+    border: 1px solid transparent;
+    outline: 0.15rem solid transparent;
+
+    transition: background-color 0.1s, border 0.1s, outline 0.s;
+}
+
+#quick-links li a:hover {
+    background-color: #1B2A3F;
+
+    /* outline ring */
+    border: 1px solid #fff;
+    outline: 0.15rem solid #1B2A3F;
+}
+
+.promotion-display h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    color: var(--color-primary);
+}
