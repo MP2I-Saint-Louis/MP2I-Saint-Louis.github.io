@@ -1,5 +1,4 @@
 import { Title } from "@solidjs/meta";
-import Counter from "~/components/Counter";
 import "./index.css";
 import { Component } from "solid-js";
 import Promotion, { PromotionProps } from "~/components/Promotion";
@@ -26,16 +25,19 @@ const QuickLinkAside: Component = () => {
       <ul>
         <li>
           <a href="https://pia.ac-paris.fr/serail/jcms/s1_2080084/fr/accueil" target="_blank" rel="noopener">
+            <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M21 16v-5.9l-8.05 4.375q-.45.25-.95.25t-.95-.25l-8.45-4.6q-.275-.15-.388-.375T2.1 9t.113-.5t.387-.375l8.45-4.6q.225-.125.463-.188T12 3.275t.488.063t.462.187l9.525 5.2q.25.125.388.363T23 9.6V16q0 .425-.288.713T22 17t-.712-.288T21 16m-9.95 4.475l-5-2.7q-.5-.275-.775-.75T5 16v-3.8l6.05 3.275q.45.25.95.25t.95-.25L19 12.2V16q0 .55-.275 1.025t-.775.75l-5 2.7q-.225.125-.462.188t-.488.062t-.488-.062t-.462-.188"/></svg>
             Lycée Saint Louis
           </a>
         </li>
         <li>
           <a href="https://prepas-mp2i.fr/filiere/#le-programme-en-mp2i" target="_blank" rel="noopener">
+            <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M6.75 22q-1.125 0-1.937-.763T4 19.35V5.4q0-.95.588-1.7t1.537-.95l7.5-1.475q.925-.2 1.65.4T16 3.225V15.15q0 .725-.45 1.288t-1.15.687L6.525 18.7q-.225.05-.375.238T6 19.35q0 .275.225.463T6.75 20H18V5q0-.425.288-.712T19 4t.713.288T20 5v15q0 .825-.587 1.413T18 22zm1.45-5.65q.35-.075.575-.35T9 15.375V5.45q0-.475-.363-.775t-.837-.2q-.35.075-.575.35T7 5.45v9.925q0 .475.362.775t.838.2"/></svg>
             Les programmes
           </a>
         </li>
         <li>
           <a href="https://prepas-mp2i.fr/" target="_blank" rel="noopener">
+            <img class="icon" src="/assets/images/prepas-mp2i-logo.webp" alt="Icone Prépas-MP2I.fr" />
             Association des Prépas MP2I & MPI
           </a>
         </li>
@@ -92,12 +94,32 @@ const Home: Component = () => {
       <Header />
       <main class="container">
         <section id="abstract">
-          <p>Les classes préparatoires MP2I et MPI du Lycée Saint Louis, Paris 6, vous accueille sur ce site, maintenu par leur soin.
-            <br />Nous espérons que vous y trouverez les informations que vous cherchez.</p>
+          <p>
+            Le lycée Saint-Louis au coeur du Quartier Latin est le seul lycée en France dédié uniquement aux Classes Préparatoires aux Grandes Écoles. 
+            <br />Grâce à son équipe pédagogique de qualité et à des khôlleurs expérimentés, le lycée saura vous offrir une préparation optimale pour les concours.
+          </p>
+          <p>
+            <a href="https://prepas.org/index.php?rubrique=76" target="_blank" rel="noopener">La filière MP2I (Mathématiques Physique Informatique et Ingénierie)</a>, lancée à la rentrée 2021,
+            est une formation innovante qui allie les mathématiques, la physique, l'informatique et l'ingénierie
+            pour répondre aux besoins toujours plus présents d'ingénieurs polyvalents avec une solide formation scientifique
+            et une aisance en informatique.
+          </p>
+          <p>
+            Ouverte au lycée Saint Louis dès la rentrée 2021, c'est une formation exigeante
+            qui vous préparera aux <a href="https://ens.fr/" target="_blank">Écoles Normales</a> ainsi qu'aux plus grandes écoles d'ingénieurs françaises, telles 
+            que l'<a href="https://www.polytechnique.edu/" target="_blank">École Polytechnique</a>, 
+            <a href="https://www.centralesupelec.fr/" target="_blank">CentraleSupélec</a>, 
+            <a href="https://telecom.paris/" target="_blank">Télécom Paris</a>,
+            l'<a href="https://ensimag.grenoble-inp.fr/" target="_blank">Ensimag</a>  etc.
+          </p>
         </section>
         <QuickLinkAside />
-        <PromotionDisplay id="promotions-mp2i" title="Promotions" promotions={promotions} reverse={true}/>
+        <PromotionDisplay id="promotions-mp2i" title="Nos promotions" promotions={promotions} reverse={true}/>
       </main>
+      <footer>
+        <p>Fait avec ❤️ par les étudiants.</p>
+        <p>Contributions sur <a href="" target="_blank">GitHub</a>.</p>
+      </footer>
     </>
   );
 }
