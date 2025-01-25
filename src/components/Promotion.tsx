@@ -1,9 +1,11 @@
 import { Component } from "solid-js";
+import { Show } from "solid-js"
 import "./Promotion.css";
 
 export interface PromotionArt {
     src: string[];
     alt: string;
+    bgColor?: string;
 }
 
 export interface PromotionProps {
@@ -44,12 +46,14 @@ const Promotion: Component<PromotionProps> = (props) => {
             <div class="promotion-content">
                 <h2>{props.name}</h2>
                 <h3>{props.year}</h3>
+                <Show when={props.images.length > 0}>
                 <div class="gallery">
                     {props.images.map((image: PromotionArt) => {
+                        const bgStyle = image.bgColor ? { "background-color": image.bgColor } : {};
                         if (image.src.length === 0) {
                             return;
                         } else if (image.src.length === 1) {
-                            return <img class="gallery-image" src={image.src[0]} alt={image.alt} />;
+                            return <picture><img class="gallery-image" src={image.src[0]} alt={image.alt} style={bgStyle} /></picture>;
                         } else {
                             return (
                                 <picture>
@@ -62,14 +66,15 @@ const Promotion: Component<PromotionProps> = (props) => {
                                     })}
                                     <img
                                         src={image.src[0]}
-                                        alt={image.alt} />
+                                        alt={image.alt} style={bgStyle} />
                                 </picture>
 
                             );
                         }
                     })}
                 </div>
-                <p>{props.description}</p>
+                </Show>
+                <p class="promotion-description">{props.description}</p>
             </div>
         </section>
     );

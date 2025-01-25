@@ -80,6 +80,7 @@
     align-items: start;
 
     overflow-x: scroll;
+    scroll-snap-type: x mandatory;
 
     width: calc(100vw - 7rem);
 }
@@ -91,6 +92,7 @@
 }
 
 .gallery img {
+    display: block;
     height: calc(min(60vh, 60vw, 256px));
     min-width: 1rem;
     object-fit: fill;
@@ -99,5 +101,18 @@
 
     background-color: gray;
     border-radius: 0.5rem;
-    scroll-snap-type: x mandatory;
+}
+
+picture {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.promotion-description {
+    margin-top: 1.5rem;
+}
+
+.gallery + .promotion-description {
+    margin-top: 0;
 }

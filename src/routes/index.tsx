@@ -6,7 +6,11 @@ import Promotion, { PromotionProps, PromotionArt } from "~/components/Promotion"
 const Header: Component = () => {
   return (
     <header>
-      <img src="/assets/images/saint_louis_1308.jpg" alt="Lycée Saint Louis - 1308" />
+      <picture>
+        <source media="(min-width: 1024px)" srcset="/assets/images/saint_louis_1308.webp, /assets/images/saint_louis_1308.avif" />
+        <source media="(max-width: 1024px)" srcset="/assets/images/saint_louis_1308_1024.webp, /assets/images/saint_louis_1308_1024.avif, /assets/images/saint_louis_1308_1024.jpg" />
+        <img src="/assets/images/saint_louis_1308.jpg" alt="Lycée Saint Louis - 1308" />
+      </picture>
       <div id="header-text">
         <div class="wider-container">
           <p>MP2I</p>
@@ -79,25 +83,51 @@ const PromotionDisplay: Component<PromotionDisplayProps> = (props) => {
   );
 }
 
+function createThreeVariantArt(src: string, alt: string): PromotionArt {
+  const filename_without_extension = src.split('.').slice(0, -1).join('.');
+
+  return {
+    src: [filename_without_extension+".webp", filename_without_extension+".avif", filename_without_extension+".jpg"],
+    alt: alt
+  };
+}
+
 const promotions: PromotionProps[] = [
   {
-    name: "MP2I [0]",
-    year: "2022 - 2023",
+    name: "MP2I [0] & MPI [0]",
+    year: "2021 - 2023",
     description: "La classe préparatoire MP2I (Mathématiques, Physique, Informatique et Ingénierie) du lycée Saint Louis.",
     images: [
-      {
-        src: ["https://mp2i-saint-louis.github.io/images/avatar.png"],
-        alt: "MP2I [0]"
-      },
+      createThreeVariantArt("/assets/images/promotions/2023/MP2I_0_square_logo.jpg", "Logo MP2I [0] variante carrée"),
+      createThreeVariantArt("/assets/images/promotions/2023/MP2I_0_logo.jpg", "Logo MP2I [0] variante verticale"),
+      createThreeVariantArt("/assets/images/promotions/2023/MPI_0_classic_logo.jpg", "Logo MPI [0]"),
+      createThreeVariantArt("/assets/images/promotions/2023/MPI_0_light_logo.jpg", "Logo MPI [0] variante claire"),
     ],
   },
   {
-    name: "MPI",
-    year: "2021 - 2022",
+    name: "MP2I [1] & MPI [1]",
+    year: "2022 - 2024",
     description: "La classe préparatoire MPI (Mathématiques, Physique et Informatique) du lycée Saint Louis.",
     images: [
+      createThreeVariantArt("/assets/images/promotions/2024/MP2I_1_logo.jpg", "Logo MP2I [1]"),
+      createThreeVariantArt("/assets/images/promotions/2024/MPI_1_logo.jpg", "Logo MPI [1]"),
     ],
   },
+  {
+    name: "MP2I [2] & MPI [2]",
+    year: "2023 - 2025",
+    description: "La classe préparatoire MP2I (Mathématiques, Physique, Informatique et Ingénierie) du lycée Saint Louis.",
+    images: [
+      createThreeVariantArt("/assets/images/promotions/2025/MP2I_2_logo.jpg", "Logo MP2I [2]"),
+      createThreeVariantArt("/assets/images/promotions/soon.jpg", "Logo MPI [2] - Coming soon"),
+    ]
+  },
+  {
+    name: "MP2I [3]",
+    year: "2024 - 2026",
+    description: "La classe préparatoire MP2I (Mathématiques, Physique, Informatique et Ingénierie) du lycée Saint Louis.",
+    images: []
+  }
 ];
 
 const Home: Component = () => {
