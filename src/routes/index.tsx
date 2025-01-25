@@ -18,6 +18,20 @@ const Header: Component = () => {
   );
 }
 
+const OpenDoorsAside: Component = () => {
+  return (
+    <aside id="portes-ouvertes">
+      <h2>Portes ouvertes</h2>
+      <ul>
+        <li>Portes ouvertes au Lycée Saint Louis le <strong>Samedi 1er février 2025 de 13h à 17h</strong> (voir <a href="https://pia.ac-paris.fr/serail/jcms/s1_3211599/fr/journee-portes-ouvertes-2025" target="_blank" rel="noopener">annonce</a>).</li>
+        <li>
+          Portes ouvertes virtuelles organisées par l'Association des Prépas MP2I et MPI le 
+          <strong>Samedi 24 février de 13h à 17h</strong> sur <a href="https://prepas-mp2i.fr/forum/" target="_blank" rel="noopener">prepas-mp2i.fr</a>.
+        </li>
+      </ul>
+    </aside>);
+}
+
 const QuickLinkAside: Component = () => {
   return (
     <aside id="quick-links">
@@ -114,6 +128,7 @@ const Home: Component = () => {
           </p>
         </section>
         <QuickLinkAside />
+        <OpenDoorsAside />
         <PromotionDisplay id="promotions-mp2i" title="Nos promotions" promotions={promotions} reverse={true}/>
       </main>
       <footer>

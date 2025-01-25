@@ -66,7 +66,7 @@ header img {
 aside {
     background-color: var(--background-indicative);
     border-left: 0.25rem solid var(--border-indicative);
-    padding: 1rem 0.5rem;
+    padding: 1rem 1rem 1rem 0.5rem;
 }
 
 aside h2 {
@@ -77,7 +77,23 @@ aside h2 {
     color: var(--color-primary);
 }
 
-#quick-links {
+aside li, aside p {
+    font-size: 1.1rem;
+    line-height: 1.25rem;
+    font-weight: 400;
+    color: black;
+}
+
+aside ul {
+    margin: 1rem 0 0 0;
+    padding: 0 0 0 2rem;
+}
+
+aside li {
+    margin: 0.25rem 0;
+}
+
+#quick-links, #portes-ouvertes {
     /* Elevation drop-shadow */
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }

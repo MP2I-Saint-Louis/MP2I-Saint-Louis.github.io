@@ -53,7 +53,11 @@ p {
 }
 
 section, aside {
-  margin: 4rem 0;
+  margin-top: 4rem;
+}
+
+aside + aside {
+  margin-top: 2rem;
 }
 
 footer {
@@ -80,4 +84,13 @@ footer a {
 
 footer a:hover {
   text-decoration: underline;
+}
+
+strong {
+  font-weight: 600;
+  color: var(--color-primary)
+}
+
+li::marker {
+  color: var(--color-primary);
 }
