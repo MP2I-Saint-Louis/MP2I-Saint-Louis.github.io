@@ -1,7 +1,7 @@
 import { Title } from "@solidjs/meta";
 import "./index.css";
 import { Component } from "solid-js";
-import Promotion, { PromotionProps } from "~/components/Promotion";
+import Promotion, { PromotionProps, PromotionArt } from "~/components/Promotion";
 
 const Header: Component = () => {
   return (
@@ -67,7 +67,7 @@ interface PromotionDisplayProps {
 }
 
 const PromotionDisplay: Component<PromotionDisplayProps> = (props) => {
-  const _promotions = props.reverse ? props.promotions.reverse() : props.promotions;
+  const _promotions = props.reverse ? props.promotions.toReversed() : props.promotions;
 
   return (
     <section id={props.id} class="promotion-display">
@@ -85,9 +85,10 @@ const promotions: PromotionProps[] = [
     year: "2022 - 2023",
     description: "La classe préparatoire MP2I (Mathématiques, Physique, Informatique et Ingénierie) du lycée Saint Louis.",
     images: [
-      "https://mp2i-saint-louis.github.io/images/avatar.png",
-      "/assets/images/mp2i-2.jpg",
-      "/assets/images/mp2i-3.jpg",
+      {
+        src: ["https://mp2i-saint-louis.github.io/images/avatar.png"],
+        alt: "MP2I [0]"
+      },
     ],
   },
   {
@@ -95,9 +96,6 @@ const promotions: PromotionProps[] = [
     year: "2021 - 2022",
     description: "La classe préparatoire MPI (Mathématiques, Physique et Informatique) du lycée Saint Louis.",
     images: [
-      "/assets/images/mpi-1.jpg",
-      "/assets/images/mpi-2.jpg",
-      "/assets/images/mpi-3.jpg",
     ],
   },
 ];
@@ -133,7 +131,7 @@ const Home: Component = () => {
       </main>
       <footer>
         <p>Fait avec ❤️ par les étudiants.</p>
-        <p>Contributions sur <a href="" target="_blank">GitHub</a>.</p>
+        <p>Contributions sur <a href="https://github.com/MP2I-Saint-Louis" target="_blank">GitHub</a>.</p>
       </footer>
     </>
   );
