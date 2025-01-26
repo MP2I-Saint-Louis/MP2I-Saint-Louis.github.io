@@ -1,23 +1,27 @@
 @font-face {
   font-family: 'Josefin Sans';
   src: url("/assets/fonts/JosefinSans-VariableFont.ttf") format("truetype");
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Josefin Sans';
   src: url("/assets/fonts/JosefinSans-Italic-VariableFont.ttf") format("truetype");
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Jost';
   src: url("/assets/fonts/Jost-VariableFont.ttf") format("truetype");
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Jost';
   src: url("/assets/fonts/Jost-Italic-VariableFont.ttf") format("truetype");
   font-style: italic;
+  font-display: swap;
 }
 
 :root {
