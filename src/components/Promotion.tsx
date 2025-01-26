@@ -1,4 +1,4 @@
-import { Component } from "solid-js";
+import { Component, JSX } from "solid-js";
 import { Show } from "solid-js"
 import "./Promotion.css";
 
@@ -11,7 +11,7 @@ export interface PromotionArt {
 export interface PromotionProps {
     name: string;
     year: string;
-    description: string;
+    description: JSX.Element;
     images: PromotionArt[];
 }
 
@@ -74,7 +74,7 @@ const Promotion: Component<PromotionProps> = (props) => {
                     })}
                 </div>
                 </Show>
-                <p class="promotion-description">{props.description}</p>
+                <div class="promotion-description">{props.description}</div>
             </div>
         </section>
     );

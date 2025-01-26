@@ -40,7 +40,6 @@
     justify-content: center;
     align-items: start;
 
-
     margin: 0 0 1.5rem 0;
 }
 
@@ -60,11 +59,26 @@
     color: var(--color-primary);
 }
 
-.promotion-content p {
+.promotion-description,
+.promotion-description p,
+.promotion-content a,
+.promotion-content ul,
+.promotion-content ol {
     font-size: 1.10rem;
     line-height: 1.5rem;
-    font-weight: 400;
+}
+
+.promotion-description {
+    margin: 0.5rem 0 0 0;
+}
+
+.promotion-description,
+.promotion-description p {
     color: black;
+}
+
+.promotion-description p+p {
+    margin-top: 1.5rem;
 }
 
 .promotion-content .gallery {
@@ -109,10 +123,7 @@ picture {
     padding: 0;
 }
 
-.promotion-description {
-    margin-top: 1.5rem;
-}
 
-.gallery + .promotion-description {
+.gallery+.promotion-description {
     margin-top: 0;
 }
