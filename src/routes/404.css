@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+
+    background-image: image-set(
+        url('/assets/images/saint_louis_1308_1024.jpg') type('image/jpeg'),
+        url('/assets/images/saint_louis_1308_1024.webp') type('image/webp'),
+        url('/assets/images/saint_louis_1308_1024.avif') type('image/avif'),
+        url('/assets/images/saint_louis_1308.jpg') type('image/jpeg'),
+        url('/assets/images/saint_louis_1308.webp') type('image/webp'),
+        url('/assets/images/saint_louis_1308.avif') type('image/avif')
+    );
+
+    background-position: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(245, 245, 245, 0.9);
+    padding: 2rem;
+    margin: 0.5rem;
+
+    /* Blur */
+    backdrop-filter: blur(2px);
+}
+
+h1 {
+    font-size: 3rem;
+    color: var(--color-primary);
+}
+
+#explanation {
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #333;
+
+    margin: 1rem 0 2rem 0;
+}
+
+a {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1.25rem;
+
+    text-decoration: none;
+    color: white;
+    background-color: var(--color-primary);
+
+    padding: 1rem 1.5rem 0.75rem;
+
+    /* outline ring */
+    border: 1px solid var(--color-primary);
+    outline: 0.15rem solid var(--color-primary);
+    transition: background-color 0.1s, border 0.1s, outline 0.1s;
+}
+
+a:hover {
+    background-color: #1B2A3F;
+    text-decoration: none;
+
+    /* outline ring */
+    border: 1px solid #fff;
+    outline: 0.15rem solid #1B2A3F;
+}
+
+@media screen and (max-width: 768px) {
+    main {
+        font-size: 1.5rem;
+    }
+
+    section {
+        padding: 1.5rem;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+    }
+    
+}
