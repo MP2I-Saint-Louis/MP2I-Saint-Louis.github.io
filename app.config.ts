@@ -8,6 +8,7 @@ export default defineConfig({
         crawlLinks: true
       },
       baseURL: process.env.BASE_PATH,
-      preset: "static"
+      preset: "static",
+      compressPublicAssets: false,
     }
   });
