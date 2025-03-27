@@ -29,8 +29,8 @@ const OpenDoorsAside: Component = () => {
       <ul>
         <li>Portes ouvertes au Lycée Saint Louis le <strong>Samedi 1er février 2025 de 13h à 17h</strong> (voir <a href="https://pia.ac-paris.fr/serail/jcms/s1_3211599/fr/journee-portes-ouvertes-2025" target="_blank" rel="noopener">annonce</a>).</li>
         <li>
-          Portes ouvertes virtuelles organisées par l'Association des Prépas MP2I et MPI 
-          le <strong>Samedi 24 février de 13h à 17h</strong> sur <a href="https://prepas-mp2i.fr/forum/" target="_blank" rel="noopener">prepas-mp2i.fr</a>.
+          Portes ouvertes virtuelles organisées par l'Association des Prépas MP2I et MPI
+          le <strong>Samedi 24 février de 13h à 17h</strong> sur <a href="https://prepas-mp2i.org/forum/" target="_blank" rel="noopener">prepas-mp2i.org</a>.
         </li>
       </ul>
     </aside>);
@@ -60,8 +60,8 @@ const QuickLinkAside: Component = () => {
           </a>
         </li>
         <li>
-          <a href="https://prepas-mp2i.fr/" target="_blank" rel="noopener">
-            <img class="icon" src="/assets/images/prepas-mp2i-logo.webp" alt="Icone Prépas-MP2I.fr" />
+          <a href="https://prepas-mp2i.org/" target="_blank" rel="noopener">
+            <img class="icon" src="/assets/images/prepas-mp2i-logo.webp" alt="Icone Prépas-MP2I.org" />
             Association des Prépas MP2I & MPI
           </a>
         </li>
@@ -122,9 +122,9 @@ const promotions: PromotionProps[] = [
           distribution numérique (disponible sur <a href="https://music.youtube.com/playlist?list=PLegzBcyUCv-jDyIUl6dOOIgo81iYFW6Ad" target="_blank" rel="noopener">YT Music</a>, <a href="https://open.spotify.com/intl-fr/track/7hkjE2U4sU2EwiXJgWk3yM" target="_blank" rel="noopener">Spotify</a> et <a href="https://www.deezer.com/en/album/400906047" target="_blank" rel="noopener noreferrer">Deezer</a>).
         </p>
         <p>
-          Après deux ans de travail, ils obtiennent des résultats admirablement bons, avec 
-          8 intégrés à X/ENS, 2 intégrés aux Centrales, 15 intégrés aux Mines-Ponts (dont 1 aux Mines Paris, 4 à TELECOM Paris et 4 
-          à IMT Atlantique), 8 aux Mines TELECOM et 6 à CCINP. Six d'entre eux décident de retenter leur chance aux concours 
+          Après deux ans de travail, ils obtiennent des résultats admirablement bons, avec
+          8 intégrés à X/ENS, 2 intégrés aux Centrales, 15 intégrés aux Mines-Ponts (dont 1 aux Mines Paris, 4 à TELECOM Paris et 4
+          à IMT Atlantique), 8 aux Mines TELECOM et 6 à CCINP. Six d'entre eux décident de retenter leur chance aux concours
           en redoublant bien qu'ils étaient admis à une école du concours CCINP (ou plus).
         </p>
       </>
@@ -148,14 +148,14 @@ const promotions: PromotionProps[] = [
         <p>
           Les deux mascottes de la promotion sont toujours présentes : le mammouth et le chacal, à laquelle s'ajoute une nouvelle créature,
           le <a href="https://leagueoflegends.fandom.com/wiki/Poro" target="_blank" rel="noopener noreferrer">poro (inspiré du jeu vidéo League of Legends)</a>.
-          L'horloge de la vénérable salle C253 est toujours bien présente ainsi que l'inscription codée en binaire «<em>VMS?</em>». 
+          L'horloge de la vénérable salle C253 est toujours bien présente ainsi que l'inscription codée en binaire «<em>VMS?</em>».
         </p>
         <p>
           Les objectifs de cette promotion sont très différents de ceux de la promotion précédente. Ils sont peu à viser (et à passer)
           les Écoles Normales Supérieures (ENS) et préfèrent les Écoles d'ingénieurs, notamment les Centrales.
           <br />Sans surprise,
-          ils sont 3 à intégrer X/ENS, 5 à intégrer les Centrales (dont 3 à CentraleSupélec), 
-          10 à intégrer Mines-Ponts (dont 1 aux Mines Paris, 2 aux Ponts et 1 à TELECOM Paris), 
+          ils sont 3 à intégrer X/ENS, 5 à intégrer les Centrales (dont 3 à CentraleSupélec),
+          10 à intégrer Mines-Ponts (dont 1 aux Mines Paris, 2 aux Ponts et 1 à TELECOM Paris),
           8 à intégrer Mines TELECOM, 4 à intégrer CCINP et 4 à intégrer E3C/Polytech.
         </p>
       </>
@@ -172,23 +172,23 @@ const promotions: PromotionProps[] = [
       <>
         <p>
           Troisième promotion en MP2I/MPI du lycée Saint-Louis, elle
-          n'a pas encore passé les concours qui commenceront par les écrits en avril 
+          n'a pas encore passé les concours qui commenceront par les écrits en avril
           et se termineront par les oraux entre mi-juin et fin juillet
         </p>
         <p>
-          Elle reprend les codes des promotions précédentes, avec 
-          les mascottes emblématiques, le mammouth et le chacal. 
+          Elle reprend les codes des promotions précédentes, avec
+          les mascottes emblématiques, le mammouth et le chacal.
           L'année est encore présentée sous forme de balise HTML, <code>&lt;2024&gt;</code> et
           on retrouve l'inscription codée en binaire «<em>VMS?</em>».
           <br />
-          Sont introduits, les cables et connectiques emblématiques 
+          Sont introduits, les cables et connectiques emblématiques
           de l'informatique : câble RJ45, câble USB, prise jack, connecteur HDMI, etc.
         </p>
       </>
     ),
     images: [
       createThreeVariantArt("/assets/images/promotions/2025/MP2I_2_logo.jpg", "Logo MP2I [2]"),
-      createThreeVariantArt("/assets/images/promotions/soon.jpg", "Logo MPI [2] - Coming soon"),
+      createThreeVariantArt("/assets/images/promotions/2025/MPI_2_logo.jpg", "Logo MPI [2]"),
     ]
   },
   {
@@ -196,13 +196,16 @@ const promotions: PromotionProps[] = [
     year: "2024 - 2026",
     description: (
       <p>
-        La promotion MP2I [3] est la quatrième promotion de la filière MP2I du lycée Saint-Louis. 
+        La promotion MP2I [3] est la quatrième promotion de la filière MP2I du lycée Saint-Louis.
         <br />
         Rentrée en 2024, elle est composée d'une cinquantaine d'étudiants et étudiantes.
         Ils leur reste un peu moins de deux ans pour se préparer aux concours des grandes écoles d'ingénieurs.
       </p>
     ),
-    images: []
+    images: [
+      createThreeVariantArt("/assets/images/promotions/2026/MP2I_3_logo.jpg", "Logo MP2I [3]"),
+      createThreeVariantArt("/assets/images/promotions/soon.jpg", "Logo MP2I [3] - Coming soon"),
+    ]
   }
 ];
 
@@ -225,10 +228,7 @@ const Home: Component = () => {
           <p>
             Ouverte au lycée Saint Louis dès la rentrée 2021, c'est une formation exigeante
             qui vous préparera aux <a href="https://ens.fr/" target="_blank">Écoles Normales</a> ainsi qu'aux plus grandes écoles d'ingénieurs françaises, telles
-            que l'<a href="https://www.polytechnique.edu/" target="_blank">École Polytechnique</a>,
-            <a href="https://www.centralesupelec.fr/" target="_blank">CentraleSupélec</a>,
-            <a href="https://telecom.paris/" target="_blank">Télécom Paris</a>,
-            l'<a href="https://ensimag.grenoble-inp.fr/" target="_blank">Ensimag</a>  etc.
+            que l'<a href="https://www.polytechnique.edu/" target="_blank">École Polytechnique</a>, <a href="https://www.centralesupelec.fr/" target="_blank">CentraleSupélec</a>, <a href="https://telecom.paris/" target="_blank">Télécom Paris</a>, l'<a href="https://ensimag.grenoble-inp.fr/" target="_blank">Ensimag</a>  etc.
           </p>
         </section>
         <QuickLinkAside />
