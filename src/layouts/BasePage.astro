@@ -1,0 +1,14 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import "./BasePage.css";
+import Header from "./Header.astro";
+---
+
+<BaseLayout>
+    <Header />
+    <slot></slot>
+    <footer>
+      <p>Fait avec ❤️ par les étudiants.</p>
+      <p>Contributions sur <a href="https://github.com/MP2I-Saint-Louis" target="_blank">GitHub</a>.</p>
+    </footer>
+</BaseLayout>
