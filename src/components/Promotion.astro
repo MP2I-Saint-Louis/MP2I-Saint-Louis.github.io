@@ -1,0 +1,69 @@
+---
+import { getImageMIMEType, type PromotionArt } from "../lib/Promotion";
+import "./Promotion.css";
+
+export interface PromotionProps {
+	name: string;
+	year: string;
+	description: any;
+	images: PromotionArt[];
+}
+
+const props = Astro.props as PromotionProps;
+const Description = props.description;
+---
+
+<section class="promotion">
+	<div class="timeline">
+		<div class="timeline-dot"></div>
+		<div class="timeline-bar"></div>
+	</div>
+	<div class="promotion-content">
+		<h2>{props.name}</h2>
+		<h3>{props.year}</h3>
+		{
+			props.images.length > 0 && (
+				<div class="gallery">
+					{props.images.map((image: PromotionArt) => {
+						const bgStyle = image.bgColor
+							? { "background-color": image.bgColor }
+							: {};
+						if (image.src.length === 0) {
+							return;
+						} else if (image.src.length === 1) {
+							return (
+								<picture>
+									<img
+										class="gallery-image"
+										src={image.src[0]}
+										alt={image.alt}
+										style={bgStyle}
+									/>
+								</picture>
+							);
+						} else {
+							return (
+								<picture>
+									{image.src.map((_url) => {
+										return (
+											<source
+												srcset={_url}
+												type={getImageMIMEType(_url)}
+											/>
+										);
+									})}
+									<img
+										src={image.src[0]}
+										alt={image.alt}
+										style={bgStyle}
+									/>
+								</picture>
+							);
+						}
+					})}
+				</div>
+			)
+		}
+		<div class="promotion-description"><Description></Description></div>
+	</div>
+</section>
